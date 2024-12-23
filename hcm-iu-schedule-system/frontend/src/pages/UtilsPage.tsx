@@ -58,7 +58,7 @@ const UtilsPanel = () => {
         fetchedCourses[key].items.flatMap((item: any) => {
           return item.daysOfWeek.map((day: string, index: number) => ({
             courseName: item.rooms.some((room: string) => room.includes("LA") && !item.name.includes("Lab"))
-              ? `${item.name} Laboratory`
+              ? `${item.name}`
               : item.name,
             credits: item.credits,
             capacity: item.capacity,
@@ -120,12 +120,33 @@ const UtilsPanel = () => {
   }, [searchTerm, facultyFilter, allCourses]);
 
   const handleSelectCourse = (course: any, isSelected: boolean) => {
-    const updatedSelectedCourses = isSelected
-      ? [...selectedCourses, course]
-      : selectedCourses.filter((selected) => selected.classId !== course.classId);
-
+    let updatedSelectedCourses = [...selectedCourses];
+  
+    if (isSelected) {
+      if (!updatedSelectedCourses.some(c => c.classId === course.classId)) {
+        updatedSelectedCourses.push(course);
+      }
+  
+      if (course.courseName.includes("Laboratory")) {
+        const mainCourse = allCourses.find(
+          (c) => c.courseName === course.courseName.replace(" Laboratory", "") && c.classId !== course.classId
+        );
+        if (mainCourse && !updatedSelectedCourses.some(c => c.classId === mainCourse.classId)) {
+          updatedSelectedCourses.push(mainCourse);
+        }
+      } else {
+        const labCourse = allCourses.find(
+          (c) => c.courseName === `${course.courseName} Laboratory` && c.classId !== course.classId
+        );
+        if (labCourse && !updatedSelectedCourses.some(c => c.classId === labCourse.classId)) {
+          updatedSelectedCourses.push(labCourse);
+        }
+      }
+    } else {
+      updatedSelectedCourses = updatedSelectedCourses.filter(c => c.classId !== course.classId);
+    }
+  
     setSelectedCourses(updatedSelectedCourses);
-    localStorage.setItem("selectedCourses", JSON.stringify(updatedSelectedCourses));
   };
 
   return (

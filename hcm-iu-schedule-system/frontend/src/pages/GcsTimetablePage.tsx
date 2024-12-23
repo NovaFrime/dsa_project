@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import {
     Card,
@@ -29,9 +29,15 @@ const GcsTimetablePage: React.FC = () => {
     const [loading, setLoading] = useState<boolean>(true);
     const [error, setError] = useState<string | null>(null);
     const { toast } = useToast();
+    const requestInProgress = useRef(false);
 
     useEffect(() => {
+        let isMounted = true;
+
         const fetchCourses = async () => {
+            if (requestInProgress.current) return;
+            requestInProgress.current = true;
+
             try {
                 const userCredentials = JSON.parse(localStorage.getItem("userCredentials") || "{}");
 
@@ -40,22 +46,32 @@ const GcsTimetablePage: React.FC = () => {
                     Edusoft_password: userCredentials.edusoftPassword,
                 });
                 setCourses(response.data);
-                setLoading(false);
+
+                if (isMounted) {
+                    setLoading(false);
+                }
             } catch (err) {
-                setError('Failed to fetch data');
+                if (isMounted) {
+                    setError('Failed to fetch data');
+                    setLoading(false);
+                    toast({
+                        title: "Error",
+                        description: "Failed to fetch courses.",
+                        variant: "destructive",
+                    });
+                }
+            } finally {
+                requestInProgress.current = false;
                 setLoading(false);
-                toast({
-                    title: "Error",
-                    description: "Failed to fetch courses.",
-                    variant: "destructive",
-                });
             }
         };
 
-        if (loading) {
-            fetchCourses();
-        }
-    }, [loading]);
+        fetchCourses();
+
+        return () => {
+            isMounted = false;
+        };
+    }, [toast]);
 
     if (loading) {
         return <div>Loading...</div>;
@@ -82,6 +98,7 @@ const GcsTimetablePage: React.FC = () => {
                             <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Day</th>
                             <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Time</th>
                             <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Room</th>
+                            <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">Link</th>
                         </tr>
                     </thead>
                     <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-700">
@@ -92,6 +109,11 @@ const GcsTimetablePage: React.FC = () => {
                                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">{course.day}</td>
                                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">{course.startPeriod}</td>
                                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">{course.room}</td>
+                                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400">
+                                    <a href={course.link} target="_blank" rel="noopener noreferrer">
+                                        <button className="text-blue-500 hover:underline">View</button>
+                                    </a>
+                                </td>
                             </tr>
                         ))}
                     </tbody>

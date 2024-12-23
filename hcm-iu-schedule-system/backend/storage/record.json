@@ -1,0 +1,8386 @@
+{
+  "faculties": {
+    "EFA - Economics, Finance and Accounting": {
+      "lecturers": [
+        "N.T.N.Linh",
+        "L.P.Thao",
+        "L.N.A.Khoa",
+        "T.D.Khiem",
+        "N.T.L.Ha",
+        "Unknown",
+        "N.C.Tiên",
+        "L.H.Nhung",
+        "L.D.T.Trang",
+        "V.X.Hong",
+        "V.T.M.Uyen",
+        "V.T.Quy",
+        "H.N.Quang",
+        "T.C.Tâm",
+        "N.V.Phuong",
+        "L.Q.Thái",
+        "H.T.N.Hiền",
+        "L.V.Chon",
+        "C.M.Man",
+        "N.B.Trung",
+        "Đ.H.Phương",
+        "N.T.T.Van",
+        "D.M.Hoang"
+      ],
+      "courseLecturers": {
+        "Financial Accounting": [
+          "N.T.N.Linh",
+          "L.P.Thao",
+          "L.N.A.Khoa",
+          "T.D.Khiem",
+          "N.T.L.Ha"
+        ],
+        "Fundamentals of Financial Management": [
+          "Unknown",
+          "N.C.Tiên",
+          "L.H.Nhung",
+          "L.D.T.Trang",
+          "V.X.Hong",
+          "V.T.M.Uyen"
+        ],
+        "International Financial Management": [
+          "V.T.M.Uyen",
+          "V.T.Quy"
+        ],
+        "International Economics": [
+          "H.N.Quang",
+          "T.C.Tâm"
+        ],
+        "Introduction to Micro Economics": [
+          "N.V.Phuong",
+          "L.Q.Thái",
+          "H.T.N.Hiền",
+          "L.V.Chon"
+        ],
+        "Introduction to Macro Economics": [
+          "C.M.Man",
+          "N.B.Trung",
+          "Đ.H.Phương"
+        ],
+        "Math for Business": [
+          "L.N.A.Khoa",
+          "N.T.T.Van",
+          "D.M.Hoang",
+          "Đ.H.Phương"
+        ]
+      }
+    },
+    "BM - Biomedical Engineering": {
+      "lecturers": [],
+      "courseLecturers": {}
+    },
+    "CE - Civil Engineering and Management": {
+      "lecturers": [
+        "P.T.Khoa",
+        "H.K.Lam",
+        "N.T.Thuan",
+        "N.T.H.Hải",
+        "P.T.Hoa",
+        "N.T.Thủy",
+        "B.X.A.Dao"
+      ],
+      "courseLecturers": {
+        "Chemistry for Engineers": [
+          "P.T.Khoa",
+          "H.K.Lam",
+          "N.T.Thuan",
+          "N.T.H.Hải"
+        ],
+        "Environmental Science": [
+          "N.T.H.Hải",
+          "N.T.Thuan",
+          "P.T.Hoa",
+          "N.T.Thủy",
+          "B.X.A.Dao"
+        ]
+      }
+    },
+    "EE - Electrical Engineering": {
+      "lecturers": [
+        "P.T.Khoa",
+        "H.K.Lam",
+        "N.T.Thuan",
+        "N.T.H.Hải",
+        "P.T.Kien",
+        "N.T.Lương",
+        "N.N.T.Minh",
+        "D.N.Hung",
+        "N.M.Thiện",
+        "V.Q.Bao",
+        "N.L.Luật",
+        "T.Q.Hiển",
+        "H.T.Quốc",
+        "V.M.Thanh",
+        "N.V.Bình",
+        "P.T.Hoa",
+        "N.T.Thủy",
+        "B.X.A.Dao"
+      ],
+      "courseLecturers": {
+        "Chemistry for Engineers": [
+          "P.T.Khoa",
+          "H.K.Lam",
+          "N.T.Thuan",
+          "N.T.H.Hải"
+        ],
+        "Electromagnetic Theory": [
+          "P.T.Kien"
+        ],
+        "Introduction to Electrical Engineering": [
+          "N.T.Lương"
+        ],
+        "Introduction to Computer for Engineers": [
+          "N.N.T.Minh"
+        ],
+        "Principles of EE1": [
+          "D.N.Hung"
+        ],
+        "Principles of EE1 Laboratory": [
+          "N.M.Thiện"
+        ],
+        "Digital Logic Design": [
+          "V.Q.Bao"
+        ],
+        "Digital Logic Design Laboratory": [
+          "V.Q.Bao"
+        ],
+        "Principles of EE2": [
+          "N.L.Luật",
+          "T.Q.Hiển"
+        ],
+        "Principles of EE2 Laboratory": [
+          "T.Q.Hiển"
+        ],
+        "Programming for Engineers (C)": [
+          "N.N.T.Minh"
+        ],
+        "Programming for Engineers Laboratory": [
+          "H.T.Quốc"
+        ],
+        "Micro-processing Systems": [
+          "V.M.Thanh"
+        ],
+        "Micro-processing Systems Laboratory": [
+          "V.M.Thanh"
+        ],
+        "Signals & Systems": [
+          "D.N.Hung"
+        ],
+        "Signals & Systems Laboratory": [
+          "D.N.Hung"
+        ],
+        "Theory of Automatic Control": [
+          "N.V.Bình"
+        ],
+        "Environmental Science": [
+          "N.T.H.Hải",
+          "N.T.Thuan",
+          "P.T.Hoa",
+          "N.T.Thủy",
+          "B.X.A.Dao"
+        ]
+      }
+    },
+    "IAC - International Academic Collaboration": {
+      "lecturers": [],
+      "courseLecturers": {}
+    },
+    "CEE - Chemical and Environmental Engineering": {
+      "lecturers": [
+        "P.T.Khoa",
+        "H.K.Lam",
+        "N.T.Thuan",
+        "N.T.H.Hải",
+        "P.T.Hoa",
+        "N.T.Thủy",
+        "B.X.A.Dao"
+      ],
+      "courseLecturers": {
+        "Chemistry for Engineers": [
+          "P.T.Khoa",
+          "H.K.Lam",
+          "N.T.Thuan",
+          "N.T.H.Hải"
+        ],
+        "Environmental Science": [
+          "N.T.H.Hải",
+          "N.T.Thuan",
+          "P.T.Hoa",
+          "N.T.Thủy",
+          "B.X.A.Dao"
+        ]
+      }
+    },
+    "IU - International University": {
+      "lecturers": [
+        "N.Đ.Hiếu",
+        "N.M.Quân"
+      ],
+      "courseLecturers": {
+        "General Law": [
+          "N.Đ.Hiếu",
+          "N.M.Quân"
+        ]
+      }
+    },
+    "IT - Computer Science & Engineering": {
+      "lecturers": [
+        "T.T.Tín",
+        "T.T.Tung",
+        "V.C.Thành",
+        "Đ.T.Nhân",
+        "T.M.Ha",
+        "Đ.Đ.A.Vũ",
+        "H.K.Tu",
+        "N.Q.Phú",
+        "N.T.T.Loan",
+        "N.T.Nghĩa",
+        "N.V.Sinh",
+        "L.T.Nga",
+        "P.Q.Cường",
+        "L.T.N.Hạnh",
+        "V.T.L.Phuong",
+        "L.D.Tân",
+        "T.K.Minh",
+        "H.L.Vân",
+        "L.T.Son",
+        "N.M.Thiện",
+        "N.T.Tuan",
+        "H.V.U.Synh",
+        "N.T.Kỳ",
+        "L.H.Duong",
+        "M.H.B.Ân"
+      ],
+      "courseLecturers": {
+        "Algorithms & Data Structures": [
+          "T.T.Tín",
+          "T.T.Tung",
+          "V.C.Thành"
+        ],
+        "Operating Systems": [
+          "Đ.T.Nhân",
+          "T.M.Ha"
+        ],
+        "Digital Logic Design": [
+          "Đ.Đ.A.Vũ",
+          "H.K.Tu"
+        ],
+        "Software Engineering": [
+          "N.Q.Phú",
+          "N.T.T.Loan"
+        ],
+        "Principles of Database Management": [
+          "N.T.Nghĩa",
+          "N.T.T.Loan"
+        ],
+        "Internship": [
+          "N.V.Sinh"
+        ],
+        "Computer Architecture": [
+          "L.T.Nga",
+          "P.Q.Cường"
+        ],
+        "Object-Oriented Analysis and Design": [
+          "T.T.Tín",
+          "L.T.N.Hạnh"
+        ],
+        "Computer Networks": [
+          "V.T.L.Phuong",
+          "Đ.T.Nhân",
+          "L.D.Tân"
+        ],
+        "Principles of Programming Languages": [
+          "L.T.N.Hạnh"
+        ],
+        "Web Application Development": [
+          "N.T.Nghĩa",
+          "N.V.Sinh",
+          "T.K.Minh"
+        ],
+        "Information System Management": [
+          "H.L.Vân"
+        ],
+        "Net-Centric Programming": [
+          "L.T.Son"
+        ],
+        "Digital Logic Design Laboratory": [
+          "L.T.Nga",
+          "N.M.Thiện"
+        ],
+        "Entrepreneurship": [
+          "N.T.Tuan"
+        ],
+        "Theoretical Models in Computing": [
+          "H.V.U.Synh"
+        ],
+        "Introduction to Artificial Intelligence": [
+          "N.Q.Phú",
+          "N.T.Kỳ",
+          "L.T.Nga"
+        ],
+        "Ethical and Professional Issues in Computing and Digital Media": [
+          "N.V.Sinh"
+        ],
+        "Security Data Analytics and Visualization": [
+          "L.H.Duong"
+        ],
+        "Big Data Analytics": [
+          "M.H.B.Ân",
+          "N.T.T.Loan"
+        ]
+      }
+    },
+    "MA - Mathematics": {
+      "lecturers": [
+        "M.D.Thanh",
+        "N.T.T.Van",
+        "N.P.Sơn",
+        "T.V.Khanh",
+        "T.Q.Bảo",
+        "N.Dinh",
+        "N.N.Hai",
+        "P.H.Hà",
+        "P.H.A.Ngoc",
+        "L.M.Tuan"
+      ],
+      "courseLecturers": {
+        "Calculus 1": [
+          "M.D.Thanh",
+          "N.T.T.Van",
+          "N.P.Sơn"
+        ],
+        "Calculus 2": [
+          "T.V.Khanh",
+          "T.Q.Bảo"
+        ],
+        "Calculus 2 (BT)": [
+          "N.Dinh"
+        ],
+        "Calculus 3": [
+          "N.N.Hai"
+        ],
+        "Differential Equations": [
+          "P.H.Hà",
+          "P.H.A.Ngoc",
+          "T.Q.Bảo"
+        ],
+        "Probability, Statistic & Random Process": [
+          "P.H.Hà"
+        ],
+        "Applied Linear Algebra": [
+          "L.M.Tuan"
+        ]
+      }
+    },
+    "BD - Board of Director": {
+      "lecturers": [],
+      "courseLecturers": {}
+    },
+    "IEM - Industrial Engineering & Management": {
+      "lecturers": [],
+      "courseLecturers": {}
+    },
+    "EN - Languages": {
+      "lecturers": [
+        "N.H.Duc",
+        "D.H.Nga",
+        "T.D.Thu",
+        "H.V.Hiền",
+        "T.T.Hang",
+        "N.T.Quyên",
+        "Đ.N.A.Đức",
+        "V.H.Ngan",
+        "V.T.Nga",
+        "N.L.B.Ngoc",
+        "D.T.D.Ngoc",
+        "Unknown",
+        "N.T.M.Tram",
+        "M.H.Quan",
+        "N.H.Khánh",
+        "P.H.Duc",
+        "B.D.B.Huyen",
+        "N.H.P.Mai",
+        "H.T.B.Phuong",
+        "H.H.Long",
+        "L.M.Ha",
+        "T.K.Hòa",
+        "Đ.N.Đ.Khoa",
+        "P.T.Dương",
+        "L.N.Thien",
+        "N.D.Phong",
+        "P.D.Anh",
+        "L.K.Hoàng",
+        "D.D.Dung",
+        "T.T.V.Hoai",
+        "D.V.Đ.Quang",
+        "T.K.Hoang",
+        "N.A.Vu",
+        "T.T.Tú",
+        "T.T.Tu",
+        "N.V.Tiếp",
+        "N.T.Thủy"
+      ],
+      "courseLecturers": {
+        "Presentation Skills": [
+          "N.H.Duc"
+        ],
+        "Reading 2 (C1-C2)": [
+          "D.H.Nga"
+        ],
+        "Writing 2 (C1-C2)": [
+          "T.D.Thu"
+        ],
+        "Listening 2 (C1-C2)": [
+          "H.V.Hiền"
+        ],
+        "Speaking 2 (C1-C2)": [
+          "T.T.Hang"
+        ],
+        "Research Writing": [
+          "N.T.Quyên",
+          "Đ.N.A.Đức",
+          "V.H.Ngan"
+        ],
+        "Introduction to Linguistics": [
+          "V.H.Ngan",
+          "V.T.Nga",
+          "T.D.Thu",
+          "N.L.B.Ngoc"
+        ],
+        "Introduction to English Teaching Methodology": [
+          "T.T.Hang",
+          "D.H.Nga",
+          "Đ.N.A.Đức"
+        ],
+        "Introduction to Literature": [
+          "D.T.D.Ngoc",
+          "T.D.Thu"
+        ],
+        "Introduction to Translation": [
+          "D.T.D.Ngoc",
+          "Unknown"
+        ],
+        "Language and Culture": [
+          "N.T.M.Tram",
+          "M.H.Quan"
+        ],
+        "Cross-cultural Communication": [
+          "M.H.Quan",
+          "N.T.M.Tram"
+        ],
+        "Global Englishes": [
+          "N.T.Quyên",
+          "N.H.Khánh",
+          "N.L.B.Ngoc"
+        ],
+        "Sociolinguistics": [
+          "V.T.Nga",
+          "N.L.B.Ngoc"
+        ],
+        "Comparative Linguistics": [
+          "P.H.Duc",
+          "N.H.Khánh"
+        ],
+        "Teaching English to Young Learners": [
+          "B.D.B.Huyen",
+          "N.H.P.Mai"
+        ],
+        "Internship (offshore)": [
+          "V.H.Ngan"
+        ],
+        "Internship (onshore)": [
+          "V.H.Ngan"
+        ],
+        "Writing AE1": [
+          "H.T.B.Phuong",
+          "H.H.Long",
+          "L.M.Ha",
+          "T.K.Hòa"
+        ],
+        "Listening AE1": [
+          "Đ.N.Đ.Khoa",
+          "P.T.Dương",
+          "L.N.Thien",
+          "T.T.Hang",
+          "N.D.Phong"
+        ],
+        "Writing AE2": [
+          "P.D.Anh",
+          "L.K.Hoàng",
+          "L.M.Ha",
+          "D.D.Dung",
+          "T.T.V.Hoai",
+          "D.V.Đ.Quang"
+        ],
+        "Speaking AE2": [
+          "N.D.Phong",
+          "M.H.Quan",
+          "T.K.Hoang",
+          "H.H.Long",
+          "L.M.Ha",
+          "N.A.Vu",
+          "T.T.Tú"
+        ],
+        "Statistics for Social Sciences": [
+          "V.H.Ngan"
+        ],
+        "Critical Thinking": [
+          "D.T.D.Ngoc",
+          "T.T.Tu",
+          "N.V.Tiếp",
+          "N.T.Thủy"
+        ],
+        "Language, Envỉonment and the Law": [
+          "P.H.Duc",
+          "N.L.B.Ngoc"
+        ],
+        "Teaching English to Speakers of Other Languages": [
+          "Đ.N.A.Đức",
+          "B.D.B.Huyen"
+        ],
+        "Languages in the Mind": [
+          "N.T.Quyên",
+          "N.H.Khánh"
+        ],
+        "Creative Writing and the Self": [
+          "D.T.D.Ngoc",
+          "T.D.Thu"
+        ]
+      }
+    },
+    "PH - Physics": {
+      "lecturers": [
+        "Đ.X.Hội",
+        "P.H.Vũ",
+        "N.Quang",
+        "P.T.Kien",
+        "L.T.Que",
+        "T.T.Thuy"
+      ],
+      "courseLecturers": {
+        "Physics 4": [
+          "Đ.X.Hội"
+        ],
+        "Physics 1": [
+          "P.H.Vũ",
+          "Đ.X.Hội",
+          "N.Quang"
+        ],
+        "Physics 2": [
+          "P.H.Vũ",
+          "Đ.X.Hội",
+          "N.Quang"
+        ],
+        "Physics 3": [
+          "P.H.Vũ",
+          "P.T.Kien"
+        ],
+        "Physics 3 Laboratory": [
+          "L.T.Que",
+          "T.T.Thuy"
+        ]
+      }
+    },
+    "BA - Business Administration": {
+      "lecturers": [
+        "T.T.Khoa",
+        "B.T.Thanh",
+        "N.T.Mẫn",
+        "D.T.U.Thao",
+        "N.Q.Tien",
+        "B.T.T.Hien",
+        "L.V.Phúc",
+        "P.P.Linh",
+        "P.T.Huyen",
+        "D.V.T.Son",
+        "T.N.N.Hân",
+        "C.M.Man",
+        "M.N.Khuong",
+        "N.T.H.An",
+        "N.T.B.Hà",
+        "N.N.Ty",
+        "N.N.Tung",
+        "N.H.Anh",
+        "L.Q.Thái",
+        "N.H.Phu",
+        "L.V.Chon",
+        "M.T.Kien",
+        "L.T.K.Trang",
+        "N.Đ.T.An",
+        "P.V.Hanh",
+        "N.H.Trung",
+        "T.T.Long",
+        "N.L.Luật",
+        "D.N.Hung",
+        "H.V.T.Dung",
+        "N.D.Uyen",
+        "H.T.Quốc",
+        "N.V.Bình",
+        "A.Thớ",
+        "P.T.N.Minh",
+        "N.T.Minh",
+        "H.T.Hieu",
+        "P.T.Anh",
+        "H.M.Tri",
+        "T.Q.Dat",
+        "N.V.H.Chau",
+        "P.T.Nhật",
+        "N.N.D.Phuong",
+        "V.T.Huan",
+        "H.T.N.Hiền",
+        "T.M.Thuận",
+        "Đ.T.L.Trinh",
+        "T.N.Minh",
+        "N.T.P.Chau",
+        "V.V.Sen",
+        "H.Đ.Sinh",
+        "L.T.P.M.Hoàng",
+        "N.D.Y.Linh",
+        "N.M.Quân"
+      ],
+      "courseLecturers": {
+        "Principles of Marketing": [
+          "T.T.Khoa",
+          "B.T.Thanh",
+          "N.T.Mẫn",
+          "D.T.U.Thao",
+          "N.Q.Tien",
+          "B.T.T.Hien",
+          "L.V.Phúc"
+        ],
+        "Business Communication": [
+          "P.P.Linh",
+          "P.T.Huyen",
+          "B.T.T.Hien"
+        ],
+        "Quality Management": [
+          "D.V.T.Son"
+        ],
+        "Business Ethics": [
+          "T.N.N.Hân",
+          "N.T.Mẫn",
+          "C.M.Man",
+          "M.N.Khuong"
+        ],
+        "Logistic and Supply Chain Management": [
+          "N.T.H.An",
+          "N.T.B.Hà"
+        ],
+        "Project Management": [
+          "N.N.Ty",
+          "N.N.Tung"
+        ],
+        "E - Commerce": [
+          "N.H.Anh"
+        ],
+        "Sales Management": [
+          "L.V.Phúc"
+        ],
+        "Statistics for Business": [
+          "L.Q.Thái",
+          "N.H.Phu",
+          "L.V.Chon"
+        ],
+        "Business Law": [
+          "M.T.Kien"
+        ],
+        "Brand Management": [
+          "N.T.Mẫn"
+        ],
+        "Leadership": [
+          "M.N.Khuong"
+        ],
+        "Introduction to Business Administration": [
+          "N.T.H.An",
+          "L.T.K.Trang",
+          "N.Đ.T.An",
+          "P.V.Hanh"
+        ],
+        "Introduction to Psychology": [
+          "N.H.Trung"
+        ],
+        "Business Computing Skills": [
+          "T.T.Long",
+          "N.L.Luật",
+          "D.N.Hung",
+          "H.V.T.Dung",
+          "N.D.Uyen",
+          "H.T.Quốc",
+          "N.V.Bình"
+        ],
+        "Principles of Management": [
+          "A.Thớ",
+          "P.V.Hanh",
+          "N.Đ.T.An"
+        ],
+        "Organizational Behavior": [
+          "P.T.N.Minh",
+          "N.T.Minh",
+          "H.T.Hieu"
+        ],
+        "International Business Management": [
+          "P.T.Anh"
+        ],
+        "Internship": [
+          "H.M.Tri",
+          "T.Q.Dat"
+        ],
+        "Entrepreneurship and Small Business Management": [
+          "N.V.H.Chau",
+          "N.H.Phu"
+        ],
+        "Human Resources Management": [
+          "P.T.Nhật",
+          "N.T.Minh"
+        ],
+        "Business Research Methods": [
+          "H.M.Tri",
+          "C.M.Man",
+          "P.T.N.Minh",
+          "N.N.D.Phuong"
+        ],
+        "Production and Operations Management": [
+          "N.N.Ty",
+          "N.N.Tung",
+          "N.T.B.Hà"
+        ],
+        "Introduction to Vietnamese Legal System": [
+          "V.T.Huan"
+        ],
+        "Quantitative Methods for Business": [
+          "H.T.N.Hiền",
+          "D.T.U.Thao"
+        ],
+        "Management Information Systems": [
+          "L.V.Phúc"
+        ],
+        "Introduction to Sociology": [
+          "T.N.N.Hân",
+          "T.M.Thuận",
+          "P.T.Nhật"
+        ],
+        "Conference and Event Management": [
+          "P.T.Huyen"
+        ],
+        "Workshop 1": [
+          "N.T.Mẫn",
+          "Đ.T.L.Trinh",
+          "T.N.Minh"
+        ],
+        "World Economic Geography": [
+          "N.T.P.Chau"
+        ],
+        "Vietnamese History and Culture": [
+          "V.V.Sen"
+        ],
+        "Business Project": [
+          "P.T.Nhật",
+          "H.M.Tri",
+          "Đ.T.L.Trinh",
+          "H.Đ.Sinh"
+        ],
+        "Sustainable Business": [
+          "N.H.Phu"
+        ],
+        "Global Marketing Management": [
+          "B.T.Thanh",
+          "L.T.P.M.Hoàng",
+          "N.V.H.Chau"
+        ],
+        "Marketing Services": [
+          "H.Đ.Sinh"
+        ],
+        "Contemporary Issues in Events": [
+          "T.N.N.Hân"
+        ],
+        "Corporate Events": [
+          "N.D.Y.Linh"
+        ],
+        "Human Resource Development and Knowledge Management": [
+          "P.T.Anh"
+        ],
+        "Strategy and Human Resource Management": [
+          "A.Thớ"
+        ],
+        "Managing Organisational Performance": [
+          "H.M.Tri"
+        ],
+        "Integrated Business Management Simulation": [
+          "M.N.Khuong",
+          "N.M.Quân"
+        ]
+      }
+    },
+    "BT - Bio-Technology": {
+      "lecturers": [
+        "L.M.Thong",
+        "T.V.Minh",
+        "N.H.K.Tu",
+        "N.P.Thao",
+        "T.T.Hang",
+        "N.V.Thuan",
+        "N.T.Khoi",
+        "B.H.Thuy",
+        "N.M.Thanh",
+        "Unknown",
+        "P.N.Tien",
+        "P.H.Điệp",
+        "N.T.Trang",
+        "B.X.A.Dao",
+        "V.T.M.Thu",
+        "D.N.P.Chau",
+        "N.V.Toan",
+        "L.N.T.Phuc",
+        "N.B.Quốc",
+        "H.T.L.Xuan",
+        "T.T.H.Yen",
+        "L.V.Chương",
+        "L.Q.Phong",
+        "V.T.Ngọc",
+        "N.N.T.Đạt",
+        "P.T.Hoa",
+        "L.T.H.Ngoc",
+        "T.T.M.Hanh",
+        "N.V.H.Ha"
+      ],
+      "courseLecturers": {
+        "Cell Biology": [
+          "L.M.Thong"
+        ],
+        "Plant Physiology": [
+          "T.V.Minh"
+        ],
+        "Introduction to Biotechnology": [
+          "N.H.K.Tu",
+          "N.P.Thao",
+          "T.T.Hang",
+          "N.V.Thuan"
+        ],
+        "Scientific Writing Workshop": [
+          "N.V.Thuan"
+        ],
+        "Human Physiology": [
+          "N.V.Thuan"
+        ],
+        "Experimental Design": [
+          "N.H.K.Tu",
+          "N.T.Khoi",
+          "B.H.Thuy",
+          "L.M.Thong"
+        ],
+        "Molecular Genetics": [
+          "N.M.Thanh"
+        ],
+        "Internship": [
+          "Unknown"
+        ],
+        "Ethics and Biomedical Skills": [
+          "N.H.K.Tu",
+          "N.V.Thuan"
+        ],
+        "Introduction to Biomedical Science": [
+          "N.H.K.Tu",
+          "N.V.Thuan"
+        ],
+        "Pathology": [
+          "P.N.Tien"
+        ],
+        "Biology": [
+          "B.H.Thuy"
+        ],
+        "Practice in Biology": [
+          "P.H.Điệp"
+        ],
+        "Genetics": [
+          "T.T.Hang"
+        ],
+        "Practice in Genetics": [
+          "T.T.Hang"
+        ],
+        "Analytical Chemistry": [
+          "N.T.Trang"
+        ],
+        "Practice in Analytical Chemistry": [
+          "B.X.A.Dao",
+          "V.T.M.Thu"
+        ],
+        "Biostatistics": [
+          "N.T.Khoi"
+        ],
+        "Practice in Biostatistics": [
+          "D.N.P.Chau"
+        ],
+        "Biochemistry": [
+          "N.V.Toan"
+        ],
+        "Practice in Biochemistry": [
+          "L.N.T.Phuc"
+        ],
+        "Microbiology": [
+          "N.B.Quốc"
+        ],
+        "Practice in Microbiology": [
+          "H.T.L.Xuan"
+        ],
+        "Immunology": [
+          "P.N.Tien"
+        ],
+        "Practice in Immunology": [
+          "T.T.H.Yen"
+        ],
+        "Bioinformatics": [
+          "N.M.Thanh"
+        ],
+        "Practice in Bioinformatics": [
+          "D.N.P.Chau"
+        ],
+        "Molecular Diagnostics": [
+          "L.M.Thong"
+        ],
+        "Practice in Molecular Diagnostics": [
+          "L.M.Thong"
+        ],
+        "Reproductive and Regenerative Biomedicine": [
+          "N.V.Thuan"
+        ],
+        "Practice in Reproductive and Regenerative Biomedicine": [
+          "B.H.Thuy",
+          "N.V.Thuan"
+        ],
+        "Clinical Biochemistry": [
+          "Unknown"
+        ],
+        "Clinical biochemistry lab": [
+          "L.V.Chương"
+        ],
+        "Organic chemistry": [
+          "L.Q.Phong"
+        ],
+        "Chemistry Laboratory": [
+          "V.T.Ngọc",
+          "L.N.T.Phuc",
+          "N.N.T.Đạt",
+          "P.T.Hoa",
+          "L.T.H.Ngoc",
+          "V.T.M.Thu"
+        ],
+        "Research Experimental Project": [
+          "Unknown"
+        ],
+        "Genomics Technologies": [
+          "N.M.Thanh",
+          "T.T.H.Yen",
+          "L.M.Thong"
+        ],
+        "Medical Microbiology": [
+          "T.T.M.Hanh",
+          "N.V.H.Ha"
+        ],
+        "Applied Immunology": [
+          "N.H.K.Tu"
+        ]
+      }
+    }
+  },
+  "courses": {
+    "Financial Accounting": {
+      "items": [
+        {
+          "code": "BA005IU01    |BA005IU|Financial Accounting|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA005WE",
+          "name": "Financial Accounting",
+          "credits": 3,
+          "classId": "BABA21IU01",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L103"
+          ],
+          "lecturers": [
+            "N.T.N.Linh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L103",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.T.N.Linh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.N.Linh",
+        "L.P.Thao",
+        "L.N.A.Khoa",
+        "T.D.Khiem",
+        "N.T.L.Ha"
+      ]
+    },
+    "Fundamentals of Financial Management": {
+      "items": [
+        {
+          "code": "BA016IU01    |BA016IU|Fundamentals of Financial Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA016WE",
+          "name": "Fundamentals of Financial Management",
+          "credits": 3,
+          "classId": "BABA21IU11",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.207B"
+          ],
+          "lecturers": [
+            ""
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.207B",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "Unknown"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Unknown",
+        "N.C.Tiên",
+        "L.H.Nhung",
+        "L.D.T.Trang",
+        "V.X.Hong",
+        "V.T.M.Uyen"
+      ]
+    },
+    "International Financial Management": {
+      "items": [
+        {
+          "code": "BA051IU01    |BA051IU|International Financial Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA051WE",
+          "name": "International Financial Management",
+          "credits": 3,
+          "classId": "BABA22IU11",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.508"
+          ],
+          "lecturers": [
+            "V.T.M.Uyen"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.508",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "V.T.M.Uyen"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.T.M.Uyen",
+        "V.T.Quy"
+      ]
+    },
+    "International Economics": {
+      "items": [
+        {
+          "code": "BA068IU01    |BA068IU|International Economics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA068WE",
+          "name": "International Economics",
+          "credits": 3,
+          "classId": "BABA22IU21",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.201"
+          ],
+          "lecturers": [
+            "H.N.Quang"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.201",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "H.N.Quang"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.N.Quang",
+        "T.C.Tâm"
+      ]
+    },
+    "Introduction to Micro Economics": {
+      "items": [
+        {
+          "code": "BA117IU01    |BA117IU|Introduction to Micro Economics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA117WE",
+          "name": "Introduction to Micro Economics",
+          "credits": 3,
+          "classId": "BABA222WE01",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.508"
+          ],
+          "lecturers": [
+            "N.V.Phuong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.508",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Phuong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Phuong",
+        "L.Q.Thái",
+        "H.T.N.Hiền",
+        "L.V.Chon"
+      ]
+    },
+    "Introduction to Macro Economics": {
+      "items": [
+        {
+          "code": "BA119IU01    |BA119IU|Introduction to Macro Economics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA119WE",
+          "name": "Introduction to Macro Economics",
+          "credits": 3,
+          "classId": "BABA222WE11",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.507"
+          ],
+          "lecturers": [
+            "C.M.Man"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.507",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "C.M.Man"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "C.M.Man",
+        "N.B.Trung",
+        "Đ.H.Phương"
+      ]
+    },
+    "Math for Business": {
+      "items": [
+        {
+          "code": "BA282IU01    |BA282IU|Math for Business|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA282WE",
+          "name": "Math for Business",
+          "credits": 4,
+          "classId": "BABA23IU41",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "C.401"
+          ],
+          "lecturers": [
+            "L.N.A.Khoa"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "C.401",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "L.N.A.Khoa"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.N.A.Khoa",
+        "N.T.T.Van",
+        "D.M.Hoang",
+        "Đ.H.Phương"
+      ]
+    },
+    "Chemistry for Engineers": {
+      "items": [
+        {
+          "code": "CH011IU01    |CH011IU|Chemistry for Engineers|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "CH011WE",
+          "name": "Chemistry for Engineers",
+          "credits": 3,
+          "classId": "CHCE23IU41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.109"
+          ],
+          "lecturers": [
+            "P.T.Khoa"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.109",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "P.T.Khoa"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Khoa",
+        "H.K.Lam",
+        "N.T.Thuan",
+        "N.T.H.Hải"
+      ]
+    },
+    "Environmental Science": {
+      "items": [
+        {
+          "code": "PE014IU01    |PE014IU|Environmental Science|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PE014WE",
+          "name": "Environmental Science",
+          "credits": 3,
+          "classId": "CHCE23IU41",
+          "capacity": 85,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.401"
+          ],
+          "lecturers": [
+            "N.T.H.Hải"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.401",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.H.Hải"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.H.Hải",
+        "N.T.Thuan",
+        "P.T.Hoa",
+        "N.T.Thủy",
+        "B.X.A.Dao"
+      ]
+    },
+    "Electromagnetic Theory": {
+      "items": [
+        {
+          "code": "EE010IU01    |EE010IU|Electromagnetic Theory|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE013WE",
+          "name": "Electromagnetic Theory",
+          "credits": 3,
+          "classId": "EEEE23IU41",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L105"
+          ],
+          "lecturers": [
+            "P.T.Kien"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L105",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "P.T.Kien"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Kien"
+      ]
+    },
+    "Introduction to Electrical Engineering": {
+      "items": [
+        {
+          "code": "EE049IU01    |EE049IU|Introduction to Electrical Engineering|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE049WE",
+          "name": "Introduction to Electrical Engineering",
+          "credits": 3,
+          "classId": "EEEE23IU41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.203"
+          ],
+          "lecturers": [
+            "N.T.Lương"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.203",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Lương"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Lương"
+      ]
+    },
+    "Introduction to Computer for Engineers": {
+      "items": [
+        {
+          "code": "EE050IU01    |EE050IU|Introduction to Computer for Engineers|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE050WE",
+          "name": "Introduction to Computer for Engineers",
+          "credits": 3,
+          "classId": "EEEE23IU41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "LA1.301"
+          ],
+          "lecturers": [
+            "N.N.T.Minh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.301",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.N.T.Minh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.N.T.Minh"
+      ]
+    },
+    "Principles of EE1": {
+      "items": [
+        {
+          "code": "EE051IU01    |EE051IU|Principles of EE1|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE051WE",
+          "name": "Principles of EE1",
+          "credits": 3,
+          "classId": "EEEE22IU41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.311"
+          ],
+          "lecturers": [
+            "D.N.Hung"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.311",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "D.N.Hung"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.N.Hung"
+      ]
+    },
+    "Principles of EE1 Laboratory": {
+      "items": [
+        {
+          "code": "EE052IU01    |EE052IU|Principles of EE1 Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE052WE",
+          "name": "Principles of EE1 Laboratory",
+          "credits": 1,
+          "classId": "EEEE22IU41",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.202"
+          ],
+          "lecturers": [
+            "N.M.Thiện"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.202",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "N.M.Thiện"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.M.Thiện"
+      ]
+    },
+    "Digital Logic Design": {
+      "items": [
+        {
+          "code": "EE053IU01    |EE053IU|Digital Logic Design|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE053WE",
+          "name": "Digital Logic Design",
+          "credits": 3,
+          "classId": "EEEE22IU01",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.511"
+          ],
+          "lecturers": [
+            "V.Q.Bao"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.511",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "V.Q.Bao"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT067IU01    |IT067IU|Digital Logic Design|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT067WE",
+          "name": "Digital Logic Design",
+          "credits": 3,
+          "classId": "ITCS23IU21",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.311"
+          ],
+          "lecturers": [
+            "Đ.Đ.A.Vũ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.311",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "Đ.Đ.A.Vũ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.Q.Bao",
+        "Đ.Đ.A.Vũ",
+        "H.K.Tu"
+      ]
+    },
+    "Digital Logic Design Laboratory": {
+      "items": [
+        {
+          "code": "EE054IU01    |EE054IU|Digital Logic Design Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE054WE",
+          "name": "Digital Logic Design Laboratory",
+          "credits": 1,
+          "classId": "EEEE22IU01",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.108"
+          ],
+          "lecturers": [
+            "V.Q.Bao"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.108",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "V.Q.Bao"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT099IU01    |IT099IU|Digital Logic Design Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT099WE",
+          "name": "Digital Logic Design Laboratory",
+          "credits": 1,
+          "classId": "ITCS23IU21",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.108"
+          ],
+          "lecturers": [
+            "L.T.Nga"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.108",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "L.T.Nga"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.Q.Bao",
+        "L.T.Nga",
+        "N.M.Thiện"
+      ]
+    },
+    "Principles of EE2": {
+      "items": [
+        {
+          "code": "EE055IU01    |EE055IU|Principles of EE2|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE055WE",
+          "name": "Principles of EE2",
+          "credits": 3,
+          "classId": "EEEE22SB41",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "C.409"
+          ],
+          "lecturers": [
+            "N.L.Luật"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "C.409",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.L.Luật"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.L.Luật",
+        "T.Q.Hiển"
+      ]
+    },
+    "Principles of EE2 Laboratory": {
+      "items": [
+        {
+          "code": "EE056IU01    |EE056IU|Principles of EE2 Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE056WE",
+          "name": "Principles of EE2 Laboratory",
+          "credits": 1,
+          "classId": "EEEE22SB41",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.201"
+          ],
+          "lecturers": [
+            "T.Q.Hiển"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.201",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "T.Q.Hiển"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.Q.Hiển"
+      ]
+    },
+    "Programming for Engineers (C)": {
+      "items": [
+        {
+          "code": "EE057IU01    |EE057IU|Programming for Engineers (C)|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE057WE",
+          "name": "Programming for Engineers (C)",
+          "credits": 3,
+          "classId": "EEEE22SB41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.311"
+          ],
+          "lecturers": [
+            "N.N.T.Minh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.311",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.N.T.Minh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.N.T.Minh"
+      ]
+    },
+    "Programming for Engineers Laboratory": {
+      "items": [
+        {
+          "code": "EE058IU01    |EE058IU|Programming for Engineers Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE058WE",
+          "name": "Programming for Engineers Laboratory",
+          "credits": 1,
+          "classId": "EEEE22SB41",
+          "capacity": 24,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.207"
+          ],
+          "lecturers": [
+            "H.T.Quốc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.207",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "H.T.Quốc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.T.Quốc"
+      ]
+    },
+    "Micro-processing Systems": {
+      "items": [
+        {
+          "code": "EE083IU01    |EE083IU|Micro-processing Systems|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE083WE",
+          "name": "Micro-processing Systems",
+          "credits": 3,
+          "classId": "EEEE22IU21",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.603"
+          ],
+          "lecturers": [
+            "V.M.Thanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.603",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "V.M.Thanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.M.Thanh"
+      ]
+    },
+    "Micro-processing Systems Laboratory": {
+      "items": [
+        {
+          "code": "EE084IU01    |EE084IU|Micro-processing Systems Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EE084WE",
+          "name": "Micro-processing Systems Laboratory",
+          "credits": 1,
+          "classId": "EEEE22IU21",
+          "capacity": 24,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.207"
+          ],
+          "lecturers": [
+            "V.M.Thanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.207",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "V.M.Thanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.M.Thanh"
+      ]
+    },
+    "Signals & Systems": {
+      "items": [
+        {
+          "code": "EE088IU01    |EE088IU|Signals & Systems|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT075WE",
+          "name": "Signals & Systems",
+          "credits": 3,
+          "classId": "EEEE23IU11",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.313"
+          ],
+          "lecturers": [
+            "D.N.Hung"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.313",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "D.N.Hung"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.N.Hung"
+      ]
+    },
+    "Signals & Systems Laboratory": {
+      "items": [
+        {
+          "code": "EE089IU01    |EE089IU|Signals & Systems Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT100WE",
+          "name": "Signals & Systems Laboratory",
+          "credits": 1,
+          "classId": "EEEE23IU11",
+          "capacity": 16,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA2.207"
+          ],
+          "lecturers": [
+            "D.N.Hung"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA2.207",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "D.N.Hung"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.N.Hung"
+      ]
+    },
+    "Theory of Automatic Control": {
+      "items": [
+        {
+          "code": "EEAC020IU01    |EEAC020IU|Theory of Automatic Control|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EEAC020WE",
+          "name": "Theory of Automatic Control",
+          "credits": 4,
+          "classId": "EEAC22IU41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A1.204"
+          ],
+          "lecturers": [
+            "N.V.Bình"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.204",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "N.V.Bình"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Bình"
+      ]
+    },
+    "General Law": {
+      "items": [
+        {
+          "code": "PE021IU01    |PE021IU|General Law|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PE021WE",
+          "name": "General Law",
+          "credits": 3,
+          "classId": "BABA23IU41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.109"
+          ],
+          "lecturers": [
+            "N.Đ.Hiếu"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.109",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.Đ.Hiếu"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.Đ.Hiếu",
+        "N.M.Quân"
+      ]
+    },
+    "Algorithms & Data Structures": {
+      "items": [
+        {
+          "code": "IT013IU01  01|IT013IU|Algorithms & Data Structures|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT013WE",
+          "name": "Algorithms & Data Structures",
+          "credits": 4,
+          "classId": "ITCS23IU11",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Hai",
+            "Tư"
+          ],
+          "begins": [
+            4,
+            4
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.608",
+            "A2.501"
+          ],
+          "lecturers": [
+            "T.T.Tín",
+            "T.T.Tung"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Tín"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.501",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Tung"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Tín",
+        "T.T.Tung",
+        "V.C.Thành"
+      ]
+    },
+    "Operating Systems": {
+      "items": [
+        {
+          "code": "IT017IU01  01|IT017IU|Operating Systems|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT017WE",
+          "name": "Operating Systems",
+          "credits": 4,
+          "classId": "ITCS22IU11",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Sáu",
+            "Sáu"
+          ],
+          "begins": [
+            7,
+            4
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.607",
+            "A2.508"
+          ],
+          "lecturers": [
+            "Đ.T.Nhân",
+            "T.M.Ha"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.607",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "Đ.T.Nhân"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.508",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.M.Ha"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Đ.T.Nhân",
+        "T.M.Ha"
+      ]
+    },
+    "Software Engineering": {
+      "items": [
+        {
+          "code": "IT076IU01  01|IT076IU|Software Engineering|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT076WE",
+          "name": "Software Engineering",
+          "credits": 4,
+          "classId": "ITDS22IU41",
+          "capacity": 55,
+          "daysOfWeek": [
+            "Năm",
+            "Tư"
+          ],
+          "begins": [
+            4,
+            7
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.301",
+            "A2.205"
+          ],
+          "lecturers": [
+            "N.Q.Phú",
+            "N.T.T.Loan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.301",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.Q.Phú"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.205",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.T.T.Loan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.Q.Phú",
+        "N.T.T.Loan"
+      ]
+    },
+    "Principles of Database Management": {
+      "items": [
+        {
+          "code": "IT079IU01  01|IT079IU|Principles of Database Management|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT079WE",
+          "name": "Principles of Database Management",
+          "credits": 4,
+          "classId": "ITCS23IU21",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Hai",
+            "Ba"
+          ],
+          "begins": [
+            7,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.604",
+            "A2.104"
+          ],
+          "lecturers": [
+            "N.T.Nghĩa",
+            "N.T.T.Loan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.604",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Nghĩa"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.104",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.T.T.Loan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Nghĩa",
+        "N.T.T.Loan"
+      ]
+    },
+    "Internship": {
+      "items": [
+        {
+          "code": "IT082IU01    |IT082IU|Internship|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT082WE",
+          "name": "Internship",
+          "credits": 3,
+          "classId": "ITIT21CE11",
+          "capacity": 100,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            "N.V.Sinh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "N.V.Sinh"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BA153IU01    |BA153IU|Internship|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA153WE",
+          "name": "Internship",
+          "credits": 3,
+          "classId": "BABA232WE01",
+          "capacity": 200,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            "H.M.Tri"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "H.M.Tri"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BT221IU01    |BT221IU|Internship|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT221WE",
+          "name": "Internship",
+          "credits": 2,
+          "classId": "BTBT23WE31",
+          "capacity": 100,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            ""
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "Unknown"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Sinh",
+        "H.M.Tri",
+        "T.Q.Dat",
+        "Unknown"
+      ]
+    },
+    "Computer Architecture": {
+      "items": [
+        {
+          "code": "IT089IU01  01|IT089IU|Computer Architecture|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT089WE",
+          "name": "Computer Architecture",
+          "credits": 4,
+          "classId": "ITCS23IU01",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Năm",
+            "Bảy"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.605",
+            "A2.401"
+          ],
+          "lecturers": [
+            "L.T.Nga",
+            "P.Q.Cường"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.605",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "L.T.Nga"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.401",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.Q.Cường"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.T.Nga",
+        "P.Q.Cường"
+      ]
+    },
+    "Object-Oriented Analysis and Design": {
+      "items": [
+        {
+          "code": "IT090IU01  01|IT090IU|Object-Oriented Analysis and Design|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT090WE",
+          "name": "Object-Oriented Analysis and Design",
+          "credits": 4,
+          "classId": "ITCS23IU01",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Sáu",
+            "Ba"
+          ],
+          "begins": [
+            4,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.608",
+            "A1.109"
+          ],
+          "lecturers": [
+            "T.T.Tín",
+            "L.T.N.Hạnh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Tín"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A1.109",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "L.T.N.Hạnh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Tín",
+        "L.T.N.Hạnh"
+      ]
+    },
+    "Computer Networks": {
+      "items": [
+        {
+          "code": "IT091IU01  01|IT091IU|Computer Networks|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT091WE",
+          "name": "Computer Networks",
+          "credits": 4,
+          "classId": "ITIT24IU11",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Sáu",
+            "Sáu"
+          ],
+          "begins": [
+            7,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "ONLINE",
+            "A2.508"
+          ],
+          "lecturers": [
+            "V.T.L.Phuong",
+            "V.T.L.Phuong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "ONLINE",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "V.T.L.Phuong"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.508",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "V.T.L.Phuong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.T.L.Phuong",
+        "Đ.T.Nhân",
+        "L.D.Tân"
+      ]
+    },
+    "Principles of Programming Languages": {
+      "items": [
+        {
+          "code": "IT092IU01  01|IT092IU|Principles of Programming Languages|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT092WE",
+          "name": "Principles of Programming Languages",
+          "credits": 4,
+          "classId": "ITIT22NE41",
+          "capacity": 55,
+          "daysOfWeek": [
+            "Sáu",
+            "Bảy"
+          ],
+          "begins": [
+            7,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.301",
+            "A1.208"
+          ],
+          "lecturers": [
+            "L.T.N.Hạnh",
+            "L.T.N.Hạnh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.301",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "L.T.N.Hạnh"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A1.208",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "L.T.N.Hạnh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.T.N.Hạnh"
+      ]
+    },
+    "Web Application Development": {
+      "items": [
+        {
+          "code": "IT093IU01  01|IT093IU|Web Application Development|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT093WE",
+          "name": "Web Application Development",
+          "credits": 4,
+          "classId": "ITCS23IU11",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Bảy",
+            "Tư"
+          ],
+          "begins": [
+            4,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.604",
+            "A1.208"
+          ],
+          "lecturers": [
+            "N.T.Nghĩa",
+            "N.V.Sinh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.604",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Nghĩa"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A1.208",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Sinh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Nghĩa",
+        "N.V.Sinh",
+        "T.K.Minh"
+      ]
+    },
+    "Information System Management": {
+      "items": [
+        {
+          "code": "IT094IU01  01|IT094IU|Information System Management|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT094WE",
+          "name": "Information System Management",
+          "credits": 4,
+          "classId": "ITIT22NE41",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Hai",
+            "Ba"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.605",
+            "L207"
+          ],
+          "lecturers": [
+            "H.L.Vân",
+            "H.L.Vân"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.605",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "H.L.Vân"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "L207",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "H.L.Vân"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.L.Vân"
+      ]
+    },
+    "Net-Centric Programming": {
+      "items": [
+        {
+          "code": "IT096IU01  01|IT096IU|Net-Centric Programming|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT096WE",
+          "name": "Net-Centric Programming",
+          "credits": 4,
+          "classId": "ITIT22NE41",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Bảy",
+            "Sáu"
+          ],
+          "begins": [
+            7,
+            4
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "ONLINE",
+            "A2.501"
+          ],
+          "lecturers": [
+            "L.T.Son",
+            "L.T.Son"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "ONLINE",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "L.T.Son"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.501",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "L.T.Son"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.T.Son"
+      ]
+    },
+    "Entrepreneurship": {
+      "items": [
+        {
+          "code": "IT120IU01    |IT120IU|Entrepreneurship|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT120WE",
+          "name": "Entrepreneurship",
+          "credits": 3,
+          "classId": "ITIT21CE11",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "ONLINE1"
+          ],
+          "lecturers": [
+            "N.T.Tuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "ONLINE1",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Tuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Tuan"
+      ]
+    },
+    "Theoretical Models in Computing": {
+      "items": [
+        {
+          "code": "IT131IU01  01|IT131IU|Theoretical Models in Computing|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT131WE",
+          "name": "Theoretical Models in Computing",
+          "credits": 4,
+          "classId": "ITCS22IU11",
+          "capacity": 29,
+          "daysOfWeek": [
+            "Ba",
+            "Năm"
+          ],
+          "begins": [
+            7,
+            4
+          ],
+          "periods": [
+            4,
+            3
+          ],
+          "rooms": [
+            "ONLINE",
+            "A2.501"
+          ],
+          "lecturers": [
+            "H.V.U.Synh",
+            "H.V.U.Synh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "ONLINE",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "H.V.U.Synh"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.501",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "H.V.U.Synh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.V.U.Synh"
+      ]
+    },
+    "Introduction to Artificial Intelligence": {
+      "items": [
+        {
+          "code": "IT159IU01  01|IT159IU|Introduction to Artificial Intelligence|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "IT097WE",
+          "name": "Introduction to Artificial Intelligence",
+          "credits": 4,
+          "classId": "ITDS23IU41",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Ba",
+            "Bảy"
+          ],
+          "begins": [
+            1,
+            4
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "LA1.604",
+            "A2.310"
+          ],
+          "lecturers": [
+            "N.Q.Phú",
+            "N.T.Kỳ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.604",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.Q.Phú"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.310",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Kỳ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.Q.Phú",
+        "N.T.Kỳ",
+        "L.T.Nga"
+      ]
+    },
+    "Ethical and Professional Issues in Computing and Digital Media": {
+      "items": [
+        {
+          "code": "UFCFB5-15-301    |UFCFB5-15-3|Ethical and Professional Issues in Computing and Digital Media|01|5|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UFCFB5-15-3",
+          "name": "Ethical and Professional Issues in Computing and Digital Media",
+          "credits": 5,
+          "classId": "ITIT20CS11",
+          "capacity": 12,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "A1.204"
+          ],
+          "lecturers": [
+            "N.V.Sinh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.204",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "N.V.Sinh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Sinh"
+      ]
+    },
+    "Security Data Analytics and Visualization": {
+      "items": [
+        {
+          "code": "UFCFEL-15-301  01|UFCFEL-15-3|Security Data Analytics and Visualization|01|5|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UFCFEL-15-3",
+          "name": "Security Data Analytics and Visualization",
+          "credits": 5,
+          "classId": "ITIT20CS11",
+          "capacity": 12,
+          "daysOfWeek": [
+            "Tư",
+            "Sáu"
+          ],
+          "begins": [
+            7,
+            7
+          ],
+          "periods": [
+            5,
+            4
+          ],
+          "rooms": [
+            "LA1.604",
+            "A2.310"
+          ],
+          "lecturers": [
+            "L.H.Duong",
+            "L.H.Duong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.604",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "L.H.Duong"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.310",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "L.H.Duong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.H.Duong"
+      ]
+    },
+    "Big Data Analytics": {
+      "items": [
+        {
+          "code": "UFCFJP-15-301  01|UFCFJP-15-3|Big Data Analytics|01|5|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UFCFJP-15-3",
+          "name": "Big Data Analytics",
+          "credits": 5,
+          "classId": "ITIT20CS11",
+          "capacity": 12,
+          "daysOfWeek": [
+            "Ba",
+            "Bảy"
+          ],
+          "begins": [
+            7,
+            1
+          ],
+          "periods": [
+            5,
+            4
+          ],
+          "rooms": [
+            "LA1.604",
+            "A2.311"
+          ],
+          "lecturers": [
+            "M.H.B.Ân",
+            "N.T.T.Loan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.604",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "M.H.B.Ân"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.311",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "N.T.T.Loan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "M.H.B.Ân",
+        "N.T.T.Loan"
+      ]
+    },
+    "Calculus 1": {
+      "items": [
+        {
+          "code": "MA001IU01    |MA001IU|Calculus 1|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA001WE",
+          "name": "Calculus 1",
+          "credits": 4,
+          "classId": "MAMA23IU41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.307"
+          ],
+          "lecturers": [
+            "M.D.Thanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.307",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "M.D.Thanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "M.D.Thanh",
+        "N.T.T.Van",
+        "N.P.Sơn"
+      ]
+    },
+    "Calculus 2": {
+      "items": [
+        {
+          "code": "MA003IU01    |MA003IU|Calculus 2|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA002WE",
+          "name": "Calculus 2",
+          "credits": 4,
+          "classId": "MAMA23IU41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.407"
+          ],
+          "lecturers": [
+            "T.V.Khanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.407",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "T.V.Khanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.V.Khanh",
+        "T.Q.Bảo"
+      ]
+    },
+    "Calculus 2 (BT)": {
+      "items": [
+        {
+          "code": "MA019IU01    |MA019IU|Calculus 2 (BT)|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA019WE",
+          "name": "Calculus 2 (BT)",
+          "credits": 4,
+          "classId": "MAMA24IU41",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.412"
+          ],
+          "lecturers": [
+            "N.Dinh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.412",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "N.Dinh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.Dinh"
+      ]
+    },
+    "Calculus 3": {
+      "items": [
+        {
+          "code": "MA023IU01    |MA023IU|Calculus 3|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA023WE",
+          "name": "Calculus 3",
+          "credits": 4,
+          "classId": "MAMA23IU41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A1.208"
+          ],
+          "lecturers": [
+            "N.N.Hai"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.208",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "N.N.Hai"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.N.Hai"
+      ]
+    },
+    "Differential Equations": {
+      "items": [
+        {
+          "code": "MA024IU01  01|MA024IU|Differential Equations|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA024WE",
+          "name": "Differential Equations",
+          "credits": 4,
+          "classId": "MAMA23IU41",
+          "capacity": 87,
+          "daysOfWeek": [
+            "Hai",
+            "Ba"
+          ],
+          "begins": [
+            7,
+            1
+          ],
+          "periods": [
+            4,
+            3
+          ],
+          "rooms": [
+            "ONLINE",
+            "A1.402"
+          ],
+          "lecturers": [
+            "P.H.Hà",
+            "P.H.A.Ngoc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "ONLINE",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "P.H.Hà"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A1.402",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.H.A.Ngoc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Hà",
+        "P.H.A.Ngoc",
+        "T.Q.Bảo"
+      ]
+    },
+    "Probability, Statistic & Random Process": {
+      "items": [
+        {
+          "code": "MA026IU01    |MA026IU|Probability, Statistic & Random Process|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA026WE",
+          "name": "Probability, Statistic & Random Process",
+          "credits": 3,
+          "classId": "MAMA23IU41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.109"
+          ],
+          "lecturers": [
+            "P.H.Hà"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.109",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.H.Hà"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Hà"
+      ]
+    },
+    "Applied Linear Algebra": {
+      "items": [
+        {
+          "code": "MA027IU01    |MA027IU|Applied Linear Algebra|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA027WE",
+          "name": "Applied Linear Algebra",
+          "credits": 2,
+          "classId": "MAMA23IU41",
+          "capacity": 85,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            3
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "L.M.Tuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 3,
+              "periods": 2,
+              "lecturers": [
+                "L.M.Tuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.M.Tuan"
+      ]
+    },
+    "Presentation Skills": {
+      "items": [
+        {
+          "code": "EL006IU01    |EL006IU|Presentation Skills|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL006WE",
+          "name": "Presentation Skills",
+          "credits": 2,
+          "classId": "ENEL222WE01",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A1.203"
+          ],
+          "lecturers": [
+            "N.H.Duc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.203",
+              "begin": 4,
+              "periods": 2,
+              "lecturers": [
+                "N.H.Duc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.Duc"
+      ]
+    },
+    "Reading 2 (C1-C2)": {
+      "items": [
+        {
+          "code": "EL007IU01    |EL007IU|Reading 2 (C1-C2)|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL007WE",
+          "name": "Reading 2 (C1-C2)",
+          "credits": 3,
+          "classId": "ENEL222WE01",
+          "capacity": 45,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.408"
+          ],
+          "lecturers": [
+            "D.H.Nga"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.408",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "D.H.Nga"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.H.Nga"
+      ]
+    },
+    "Writing 2 (C1-C2)": {
+      "items": [
+        {
+          "code": "EL008IU01    |EL008IU|Writing 2 (C1-C2)|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL008WE",
+          "name": "Writing 2 (C1-C2)",
+          "credits": 3,
+          "classId": "ENEL222WE01",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L107"
+          ],
+          "lecturers": [
+            "T.D.Thu"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L107",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.D.Thu"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.D.Thu"
+      ]
+    },
+    "Listening 2 (C1-C2)": {
+      "items": [
+        {
+          "code": "EL009IU01    |EL009IU|Listening 2 (C1-C2)|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL009WE",
+          "name": "Listening 2 (C1-C2)",
+          "credits": 3,
+          "classId": "ENEL222WE01",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.312"
+          ],
+          "lecturers": [
+            "H.V.Hiền"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.312",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "H.V.Hiền"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.V.Hiền"
+      ]
+    },
+    "Speaking 2 (C1-C2)": {
+      "items": [
+        {
+          "code": "EL010IU01    |EL010IU|Speaking 2 (C1-C2)|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL010WE",
+          "name": "Speaking 2 (C1-C2)",
+          "credits": 3,
+          "classId": "ENEL222WE01",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L104"
+          ],
+          "lecturers": [
+            "T.T.Hang"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L104",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Hang"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Hang"
+      ]
+    },
+    "Research Writing": {
+      "items": [
+        {
+          "code": "EL011IU01    |EL011IU|Research Writing|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL011WE",
+          "name": "Research Writing",
+          "credits": 2,
+          "classId": "ENEL222WE31",
+          "capacity": 33,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "L110"
+          ],
+          "lecturers": [
+            "N.T.Quyên"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L110",
+              "begin": 4,
+              "periods": 2,
+              "lecturers": [
+                "N.T.Quyên"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Quyên",
+        "Đ.N.A.Đức",
+        "V.H.Ngan"
+      ]
+    },
+    "Introduction to Linguistics": {
+      "items": [
+        {
+          "code": "EL013IU01    |EL013IU|Introduction to Linguistics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL013WE",
+          "name": "Introduction to Linguistics",
+          "credits": 3,
+          "classId": "ENEL223WE01",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.509"
+          ],
+          "lecturers": [
+            "V.H.Ngan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.509",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "V.H.Ngan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.H.Ngan",
+        "V.T.Nga",
+        "T.D.Thu",
+        "N.L.B.Ngoc"
+      ]
+    },
+    "Introduction to English Teaching Methodology": {
+      "items": [
+        {
+          "code": "EL014IU01    |EL014IU|Introduction to English Teaching Methodology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL014WE",
+          "name": "Introduction to English Teaching Methodology",
+          "credits": 3,
+          "classId": "ENEL223WE01",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L103"
+          ],
+          "lecturers": [
+            "T.T.Hang"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L103",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Hang"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Hang",
+        "D.H.Nga",
+        "Đ.N.A.Đức"
+      ]
+    },
+    "Introduction to Literature": {
+      "items": [
+        {
+          "code": "EL015IU01    |EL015IU|Introduction to Literature|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL015WE",
+          "name": "Introduction to Literature",
+          "credits": 3,
+          "classId": "ENEL223WE01",
+          "capacity": 54,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L103"
+          ],
+          "lecturers": [
+            "D.T.D.Ngoc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L103",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "D.T.D.Ngoc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.T.D.Ngoc",
+        "T.D.Thu"
+      ]
+    },
+    "Introduction to Translation": {
+      "items": [
+        {
+          "code": "EL016IU01    |EL016IU|Introduction to Translation|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL016WE",
+          "name": "Introduction to Translation",
+          "credits": 3,
+          "classId": "ENEL223WE21",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.207A"
+          ],
+          "lecturers": [
+            "D.T.D.Ngoc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.207A",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "D.T.D.Ngoc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.T.D.Ngoc",
+        "Unknown"
+      ]
+    },
+    "Language and Culture": {
+      "items": [
+        {
+          "code": "EL017IU01    |EL017IU|Language and Culture|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL017WE",
+          "name": "Language and Culture",
+          "credits": 3,
+          "classId": "ENEL223WE21",
+          "capacity": 54,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L101"
+          ],
+          "lecturers": [
+            "N.T.M.Tram"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L101",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.T.M.Tram"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.M.Tram",
+        "M.H.Quan"
+      ]
+    },
+    "Cross-cultural Communication": {
+      "items": [
+        {
+          "code": "EL018IU01    |EL018IU|Cross-cultural Communication|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL018WE",
+          "name": "Cross-cultural Communication",
+          "credits": 3,
+          "classId": "ENEL223WE21",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.205"
+          ],
+          "lecturers": [
+            "M.H.Quan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.205",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "M.H.Quan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "M.H.Quan",
+        "N.T.M.Tram"
+      ]
+    },
+    "Global Englishes": {
+      "items": [
+        {
+          "code": "EL021IU01    |EL021IU|Global Englishes|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL021WE",
+          "name": "Global Englishes",
+          "credits": 3,
+          "classId": "ENEL223WE31",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L110"
+          ],
+          "lecturers": [
+            "N.T.Quyên"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L110",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Quyên"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Quyên",
+        "N.H.Khánh",
+        "N.L.B.Ngoc"
+      ]
+    },
+    "Sociolinguistics": {
+      "items": [
+        {
+          "code": "EL031IU01    |EL031IU|Sociolinguistics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL031WE",
+          "name": "Sociolinguistics",
+          "credits": 3,
+          "classId": "ENEL223WE41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L204"
+          ],
+          "lecturers": [
+            "V.T.Nga"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L204",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "V.T.Nga"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.T.Nga",
+        "N.L.B.Ngoc"
+      ]
+    },
+    "Comparative Linguistics": {
+      "items": [
+        {
+          "code": "EL032IU01    |EL032IU|Comparative Linguistics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL032WE",
+          "name": "Comparative Linguistics",
+          "credits": 3,
+          "classId": "ENEL223WE41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L206"
+          ],
+          "lecturers": [
+            "P.H.Duc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L206",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "P.H.Duc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Duc",
+        "N.H.Khánh"
+      ]
+    },
+    "Teaching English to Young Learners": {
+      "items": [
+        {
+          "code": "EL038IU01    |EL038IU|Teaching English to Young Learners|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL038WE",
+          "name": "Teaching English to Young Learners",
+          "credits": 3,
+          "classId": "ENEL224WE01",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.207A"
+          ],
+          "lecturers": [
+            "B.D.B.Huyen"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.207A",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "B.D.B.Huyen"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "B.D.B.Huyen",
+        "N.H.P.Mai"
+      ]
+    },
+    "Internship (offshore)": {
+      "items": [
+        {
+          "code": "EL056WE01    |EL056WE|Internship (offshore)|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL056WE",
+          "name": "Internship (offshore)",
+          "credits": 4,
+          "classId": "ENEL224WE11",
+          "capacity": 50,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            "V.H.Ngan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "V.H.Ngan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.H.Ngan"
+      ]
+    },
+    "Internship (onshore)": {
+      "items": [
+        {
+          "code": "EL057WE01    |EL057WE|Internship (onshore)|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EL057WE",
+          "name": "Internship (onshore)",
+          "credits": 4,
+          "classId": "ENEL224WE11",
+          "capacity": 50,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            "V.H.Ngan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "V.H.Ngan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.H.Ngan"
+      ]
+    },
+    "Writing AE1": {
+      "items": [
+        {
+          "code": "EN007IU01    |EN007IU|Writing AE1|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EN007WE",
+          "name": "Writing AE1",
+          "credits": 2,
+          "classId": "ENEL232WE31",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A2.511"
+          ],
+          "lecturers": [
+            "H.T.B.Phuong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.511",
+              "begin": 7,
+              "periods": 2,
+              "lecturers": [
+                "H.T.B.Phuong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.T.B.Phuong",
+        "H.H.Long",
+        "L.M.Ha",
+        "T.K.Hòa"
+      ]
+    },
+    "Listening AE1": {
+      "items": [
+        {
+          "code": "EN008IU01    |EN008IU|Listening AE1|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EN008WE",
+          "name": "Listening AE1",
+          "credits": 2,
+          "classId": "ENEL232WE31",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            9
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A2.511"
+          ],
+          "lecturers": [
+            "Đ.N.Đ.Khoa"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.511",
+              "begin": 9,
+              "periods": 2,
+              "lecturers": [
+                "Đ.N.Đ.Khoa"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Đ.N.Đ.Khoa",
+        "P.T.Dương",
+        "L.N.Thien",
+        "T.T.Hang",
+        "N.D.Phong"
+      ]
+    },
+    "Writing AE2": {
+      "items": [
+        {
+          "code": "EN011IU02    |EN011IU|Writing AE2|02|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EN011WE",
+          "name": "Writing AE2",
+          "credits": 2,
+          "classId": "ENEL232WE41",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            3
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "L102"
+          ],
+          "lecturers": [
+            "P.D.Anh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L102",
+              "begin": 3,
+              "periods": 2,
+              "lecturers": [
+                "P.D.Anh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.D.Anh",
+        "L.K.Hoàng",
+        "L.M.Ha",
+        "D.D.Dung",
+        "T.T.V.Hoai",
+        "D.V.Đ.Quang"
+      ]
+    },
+    "Speaking AE2": {
+      "items": [
+        {
+          "code": "EN012IU02    |EN012IU|Speaking AE2|02|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "EN012WE",
+          "name": "Speaking AE2",
+          "credits": 2,
+          "classId": "ENEL232WE41",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "L102"
+          ],
+          "lecturers": [
+            "N.D.Phong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L102",
+              "begin": 1,
+              "periods": 2,
+              "lecturers": [
+                "N.D.Phong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.D.Phong",
+        "M.H.Quan",
+        "T.K.Hoang",
+        "H.H.Long",
+        "L.M.Ha",
+        "N.A.Vu",
+        "T.T.Tú"
+      ]
+    },
+    "Statistics for Social Sciences": {
+      "items": [
+        {
+          "code": "MA030IU01    |MA030IU|Statistics for Social Sciences|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "MA030WE",
+          "name": "Statistics for Social Sciences",
+          "credits": 3,
+          "classId": "ENEL224WE11",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.310"
+          ],
+          "lecturers": [
+            "V.H.Ngan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.310",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "V.H.Ngan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.H.Ngan"
+      ]
+    },
+    "Critical Thinking": {
+      "items": [
+        {
+          "code": "PE008IU01    |PE008IU|Critical Thinking|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PE009WE",
+          "name": "Critical Thinking",
+          "credits": 3,
+          "classId": "ENEL232WE21",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.309"
+          ],
+          "lecturers": [
+            "D.T.D.Ngoc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.309",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "D.T.D.Ngoc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.T.D.Ngoc",
+        "T.T.Tu",
+        "N.V.Tiếp",
+        "N.T.Thủy"
+      ]
+    },
+    "Language, Envỉonment and the Law": {
+      "items": [
+        {
+          "code": "UPNNKA-30-301    |UPNNKA-30-3|Language, Envỉonment and the Law|01|10|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UPNNKA-30-3",
+          "name": "Language, Envỉonment and the Law",
+          "credits": 10,
+          "classId": "ENEL224WE21",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Năm",
+            "Năm"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            5,
+            5
+          ],
+          "rooms": [
+            "A2.510",
+            "A2.510"
+          ],
+          "lecturers": [
+            "P.H.Duc",
+            "N.L.B.Ngoc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.510",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "P.H.Duc"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.510",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "N.L.B.Ngoc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Duc",
+        "N.L.B.Ngoc"
+      ]
+    },
+    "Teaching English to Speakers of Other Languages": {
+      "items": [
+        {
+          "code": "UPNQ9L-30-301    |UPNQ9L-30-3|Teaching English to Speakers of Other Languages|01|10|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UPNQ9L-30-3",
+          "name": "Teaching English to Speakers of Other Languages",
+          "credits": 10,
+          "classId": "ENEL224WE21",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Hai",
+            "Hai"
+          ],
+          "begins": [
+            7,
+            7
+          ],
+          "periods": [
+            5,
+            5
+          ],
+          "rooms": [
+            "A2.409",
+            "A2.409"
+          ],
+          "lecturers": [
+            "Đ.N.A.Đức",
+            "B.D.B.Huyen"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.409",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "Đ.N.A.Đức"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.409",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "B.D.B.Huyen"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Đ.N.A.Đức",
+        "B.D.B.Huyen"
+      ]
+    },
+    "Languages in the Mind": {
+      "items": [
+        {
+          "code": "UPNQ9Q-30-301    |UPNQ9Q-30-3|Languages in the Mind|01|10|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UPNQ9Q-30-3",
+          "name": "Languages in the Mind",
+          "credits": 10,
+          "classId": "ENEL224WE21",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Sáu",
+            "Sáu"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            5,
+            5
+          ],
+          "rooms": [
+            "C.420",
+            "C.420"
+          ],
+          "lecturers": [
+            "N.T.Quyên",
+            "N.H.Khánh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "C.420",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "N.T.Quyên"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "C.420",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "N.H.Khánh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Quyên",
+        "N.H.Khánh"
+      ]
+    },
+    "Creative Writing and the Self": {
+      "items": [
+        {
+          "code": "UPNQ9V-30-301    |UPNQ9V-30-3|Creative Writing and the Self|01|10|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UPNQ9V-30-3",
+          "name": "Creative Writing and the Self",
+          "credits": 10,
+          "classId": "ENEL224WE21",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Tư",
+            "Tư"
+          ],
+          "begins": [
+            7,
+            7
+          ],
+          "periods": [
+            5,
+            5
+          ],
+          "rooms": [
+            "A2.410",
+            "A2.410"
+          ],
+          "lecturers": [
+            "D.T.D.Ngoc",
+            "T.D.Thu"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.410",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "D.T.D.Ngoc"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.410",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "T.D.Thu"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.T.D.Ngoc",
+        "T.D.Thu"
+      ]
+    },
+    "Physics 4": {
+      "items": [
+        {
+          "code": "PH012IU01    |PH012IU|Physics 4|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PH012WE",
+          "name": "Physics 4",
+          "credits": 2,
+          "classId": "PHSE23IU01",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            3
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A1.109"
+          ],
+          "lecturers": [
+            "Đ.X.Hội"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.109",
+              "begin": 3,
+              "periods": 2,
+              "lecturers": [
+                "Đ.X.Hội"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Đ.X.Hội"
+      ]
+    },
+    "Physics 1": {
+      "items": [
+        {
+          "code": "PH013IU01    |PH013IU|Physics 1|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PH013WE",
+          "name": "Physics 1",
+          "credits": 2,
+          "classId": "PHSE23IU01",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A2.205"
+          ],
+          "lecturers": [
+            "P.H.Vũ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.205",
+              "begin": 1,
+              "periods": 2,
+              "lecturers": [
+                "P.H.Vũ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Vũ",
+        "Đ.X.Hội",
+        "N.Quang"
+      ]
+    },
+    "Physics 2": {
+      "items": [
+        {
+          "code": "PH014IU01    |PH014IU|Physics 2|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PH014WE",
+          "name": "Physics 2",
+          "credits": 2,
+          "classId": "PHSE23IU01",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            3
+          ],
+          "periods": [
+            2
+          ],
+          "rooms": [
+            "A2.205"
+          ],
+          "lecturers": [
+            "P.H.Vũ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.205",
+              "begin": 3,
+              "periods": 2,
+              "lecturers": [
+                "P.H.Vũ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Vũ",
+        "Đ.X.Hội",
+        "N.Quang"
+      ]
+    },
+    "Physics 3": {
+      "items": [
+        {
+          "code": "PH015IU01    |PH015IU|Physics 3|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PH015WE",
+          "name": "Physics 3",
+          "credits": 3,
+          "classId": "PHSE23IU01",
+          "capacity": 85,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.109"
+          ],
+          "lecturers": [
+            "P.H.Vũ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.109",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.H.Vũ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Vũ",
+        "P.T.Kien"
+      ]
+    },
+    "Physics 3 Laboratory": {
+      "items": [
+        {
+          "code": "PH016IU01    |PH016IU|Physics 3 Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PH016WE",
+          "name": "Physics 3 Laboratory",
+          "credits": 1,
+          "classId": "PHSE23IU41",
+          "capacity": 18,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "LA1.403"
+          ],
+          "lecturers": [
+            "L.T.Que"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.403",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "L.T.Que"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.T.Que",
+        "T.T.Thuy"
+      ]
+    },
+    "Principles of Marketing": {
+      "items": [
+        {
+          "code": "BA003IU01    |BA003IU|Principles of Marketing|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA003WE",
+          "name": "Principles of Marketing",
+          "credits": 3,
+          "classId": "BABA22IU01",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.507"
+          ],
+          "lecturers": [
+            "T.T.Khoa"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.507",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Khoa"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Khoa",
+        "B.T.Thanh",
+        "N.T.Mẫn",
+        "D.T.U.Thao",
+        "N.Q.Tien",
+        "B.T.T.Hien",
+        "L.V.Phúc"
+      ]
+    },
+    "Business Communication": {
+      "items": [
+        {
+          "code": "BA006IU01    |BA006IU|Business Communication|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA006WE",
+          "name": "Business Communication",
+          "credits": 3,
+          "classId": "BABA22IU01",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.501"
+          ],
+          "lecturers": [
+            "P.P.Linh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.501",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.P.Linh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.P.Linh",
+        "P.T.Huyen",
+        "B.T.T.Hien"
+      ]
+    },
+    "Quality Management": {
+      "items": [
+        {
+          "code": "BA018IU01    |BA018IU|Quality Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA018WE",
+          "name": "Quality Management",
+          "credits": 3,
+          "classId": "BABA21IU01",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.104"
+          ],
+          "lecturers": [
+            "D.V.T.Son"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.104",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "D.V.T.Son"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.V.T.Son"
+      ]
+    },
+    "Business Ethics": {
+      "items": [
+        {
+          "code": "BA020IU01    |BA020IU|Business Ethics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA020WE",
+          "name": "Business Ethics",
+          "credits": 3,
+          "classId": "BABA21IU21",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L108"
+          ],
+          "lecturers": [
+            "T.N.N.Hân"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L108",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "T.N.N.Hân"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.N.N.Hân",
+        "N.T.Mẫn",
+        "C.M.Man",
+        "M.N.Khuong"
+      ]
+    },
+    "Logistic and Supply Chain Management": {
+      "items": [
+        {
+          "code": "BA022IU01    |BA022IU|Logistic and Supply Chain Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA022WE",
+          "name": "Logistic and Supply Chain Management",
+          "credits": 3,
+          "classId": "BABA21IU21",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.402"
+          ],
+          "lecturers": [
+            "N.T.H.An"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.402",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.H.An"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.H.An",
+        "N.T.B.Hà"
+      ]
+    },
+    "Project Management": {
+      "items": [
+        {
+          "code": "BA023IU01    |BA023IU|Project Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA023WE",
+          "name": "Project Management",
+          "credits": 3,
+          "classId": "BABA21IU41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.510"
+          ],
+          "lecturers": [
+            "N.N.Ty"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.510",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.N.Ty"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.N.Ty",
+        "N.N.Tung"
+      ]
+    },
+    "E - Commerce": {
+      "items": [
+        {
+          "code": "BA027IU01    |BA027IU|E - Commerce|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA027WE",
+          "name": "E - Commerce",
+          "credits": 3,
+          "classId": "BABA21IU41",
+          "capacity": 49,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.410"
+          ],
+          "lecturers": [
+            "N.H.Anh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.410",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.H.Anh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.Anh"
+      ]
+    },
+    "Sales Management": {
+      "items": [
+        {
+          "code": "BA032IU01    |BA032IU|Sales Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA032WE",
+          "name": "Sales Management",
+          "credits": 3,
+          "classId": "BABA21IU41",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.204"
+          ],
+          "lecturers": [
+            "L.V.Phúc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.204",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "L.V.Phúc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.V.Phúc"
+      ]
+    },
+    "Statistics for Business": {
+      "items": [
+        {
+          "code": "BA080IU01    |BA080IU|Statistics for Business|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA172WE",
+          "name": "Statistics for Business",
+          "credits": 3,
+          "classId": "BABA22IU41",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.401"
+          ],
+          "lecturers": [
+            "L.Q.Thái"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.401",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "L.Q.Thái"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.Q.Thái",
+        "N.H.Phu",
+        "L.V.Chon"
+      ]
+    },
+    "Business Law": {
+      "items": [
+        {
+          "code": "BA081IU01    |BA081IU|Business Law|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA081WE",
+          "name": "Business Law",
+          "credits": 3,
+          "classId": "BABA22IU41",
+          "capacity": 90,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.601"
+          ],
+          "lecturers": [
+            "M.T.Kien"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.601",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "M.T.Kien"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "M.T.Kien"
+      ]
+    },
+    "Brand Management": {
+      "items": [
+        {
+          "code": "BA082IU01    |BA082IU|Brand Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA082WE",
+          "name": "Brand Management",
+          "credits": 3,
+          "classId": "BABA22IU21",
+          "capacity": 45,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.205"
+          ],
+          "lecturers": [
+            "N.T.Mẫn"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.205",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Mẫn"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Mẫn"
+      ]
+    },
+    "Leadership": {
+      "items": [
+        {
+          "code": "BA098IU01    |BA098IU|Leadership|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA098WE",
+          "name": "Leadership",
+          "credits": 3,
+          "classId": "BABA22IU11",
+          "capacity": 74,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L201"
+          ],
+          "lecturers": [
+            "M.N.Khuong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L201",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "M.N.Khuong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "M.N.Khuong"
+      ]
+    },
+    "Introduction to Business Administration": {
+      "items": [
+        {
+          "code": "BA115IU01    |BA115IU|Introduction to Business Administration|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA115WE",
+          "name": "Introduction to Business Administration",
+          "credits": 3,
+          "classId": "BABA222WE01",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L108"
+          ],
+          "lecturers": [
+            "N.T.H.An"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L108",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.T.H.An"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.H.An",
+        "L.T.K.Trang",
+        "N.Đ.T.An",
+        "P.V.Hanh"
+      ]
+    },
+    "Introduction to Psychology": {
+      "items": [
+        {
+          "code": "BA118IU01    |BA118IU|Introduction to Psychology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA118WE",
+          "name": "Introduction to Psychology",
+          "credits": 3,
+          "classId": "BABA222WE01",
+          "capacity": 59,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "N.H.Trung"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.H.Trung"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.Trung"
+      ]
+    },
+    "Business Computing Skills": {
+      "items": [
+        {
+          "code": "BA120IU01    |BA120IU|Business Computing Skills|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA120WE",
+          "name": "Business Computing Skills",
+          "credits": 3,
+          "classId": "BABA222WE31",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "LA1.302"
+          ],
+          "lecturers": [
+            "T.T.Long"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.302",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Long"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Long",
+        "N.L.Luật",
+        "D.N.Hung",
+        "H.V.T.Dung",
+        "N.D.Uyen",
+        "H.T.Quốc",
+        "N.V.Bình"
+      ]
+    },
+    "Principles of Management": {
+      "items": [
+        {
+          "code": "BA123IU01    |BA123IU|Principles of Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA123WE",
+          "name": "Principles of Management",
+          "credits": 3,
+          "classId": "BABA222WE11",
+          "capacity": 59,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "C.401"
+          ],
+          "lecturers": [
+            "A.Thớ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "C.401",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "A.Thớ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "A.Thớ",
+        "P.V.Hanh",
+        "N.Đ.T.An"
+      ]
+    },
+    "Organizational Behavior": {
+      "items": [
+        {
+          "code": "BA130IU01    |BA130IU|Organizational Behavior|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA130WE",
+          "name": "Organizational Behavior",
+          "credits": 3,
+          "classId": "BABA222WE31",
+          "capacity": 59,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L202"
+          ],
+          "lecturers": [
+            "P.T.N.Minh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L202",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.T.N.Minh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.N.Minh",
+        "N.T.Minh",
+        "H.T.Hieu"
+      ]
+    },
+    "International Business Management": {
+      "items": [
+        {
+          "code": "BA151IU01    |BA151IU|International Business Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA151WE",
+          "name": "International Business Management",
+          "credits": 3,
+          "classId": "BABA212WE01",
+          "capacity": 45,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.313"
+          ],
+          "lecturers": [
+            "P.T.Anh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.313",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "P.T.Anh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Anh"
+      ]
+    },
+    "Entrepreneurship and Small Business Management": {
+      "items": [
+        {
+          "code": "BA154IU01    |BA154IU|Entrepreneurship and Small Business Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA154WE",
+          "name": "Entrepreneurship and Small Business Management",
+          "credits": 3,
+          "classId": "BABA232WE01",
+          "capacity": 43,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.408"
+          ],
+          "lecturers": [
+            "N.V.H.Chau"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.408",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.V.H.Chau"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.H.Chau",
+        "N.H.Phu"
+      ]
+    },
+    "Human Resources Management": {
+      "items": [
+        {
+          "code": "BA156IU01    |BA156IU|Human Resources Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA156WE",
+          "name": "Human Resources Management",
+          "credits": 3,
+          "classId": "BABA232WE01",
+          "capacity": 49,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.512"
+          ],
+          "lecturers": [
+            "P.T.Nhật"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.512",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "P.T.Nhật"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Nhật",
+        "N.T.Minh"
+      ]
+    },
+    "Business Research Methods": {
+      "items": [
+        {
+          "code": "BA161IU01    |BA161IU|Business Research Methods|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA161WE",
+          "name": "Business Research Methods",
+          "credits": 3,
+          "classId": "BABA232WE31",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.207A"
+          ],
+          "lecturers": [
+            "H.M.Tri"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.207A",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "H.M.Tri"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.M.Tri",
+        "C.M.Man",
+        "P.T.N.Minh",
+        "N.N.D.Phuong"
+      ]
+    },
+    "Production and Operations Management": {
+      "items": [
+        {
+          "code": "BA164IU01    |BA164IU|Production and Operations Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA164WE",
+          "name": "Production and Operations Management",
+          "credits": 3,
+          "classId": "BABA232WE41",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.302"
+          ],
+          "lecturers": [
+            "N.N.Ty"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.302",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.N.Ty"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.N.Ty",
+        "N.N.Tung",
+        "N.T.B.Hà"
+      ]
+    },
+    "Introduction to Vietnamese Legal System": {
+      "items": [
+        {
+          "code": "BA167IU01    |BA167IU|Introduction to Vietnamese Legal System|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA167WE",
+          "name": "Introduction to Vietnamese Legal System",
+          "credits": 3,
+          "classId": "BABA232WE41",
+          "capacity": 95,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.208"
+          ],
+          "lecturers": [
+            "V.T.Huan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.208",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "V.T.Huan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.T.Huan"
+      ]
+    },
+    "Quantitative Methods for Business": {
+      "items": [
+        {
+          "code": "BA168IU01    |BA168IU|Quantitative Methods for Business|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA168WE",
+          "name": "Quantitative Methods for Business",
+          "credits": 3,
+          "classId": "BABA23IU02",
+          "capacity": 75,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.402"
+          ],
+          "lecturers": [
+            "H.T.N.Hiền"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.402",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "H.T.N.Hiền"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.T.N.Hiền",
+        "D.T.U.Thao"
+      ]
+    },
+    "Management Information Systems": {
+      "items": [
+        {
+          "code": "BA169IU01    |BA169IU|Management Information Systems|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA169WE",
+          "name": "Management Information Systems",
+          "credits": 3,
+          "classId": "BABA232WE31",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L207"
+          ],
+          "lecturers": [
+            "L.V.Phúc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L207",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "L.V.Phúc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.V.Phúc"
+      ]
+    },
+    "Introduction to Sociology": {
+      "items": [
+        {
+          "code": "BA197IU01    |BA197IU|Introduction to Sociology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA197WE",
+          "name": "Introduction to Sociology",
+          "credits": 3,
+          "classId": "BABA23IU02",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.402"
+          ],
+          "lecturers": [
+            "T.N.N.Hân"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.402",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "T.N.N.Hân"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.N.N.Hân",
+        "T.M.Thuận",
+        "P.T.Nhật"
+      ]
+    },
+    "Conference and Event Management": {
+      "items": [
+        {
+          "code": "BA223IU01    |BA223IU|Conference and Event Management|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA223WE",
+          "name": "Conference and Event Management",
+          "credits": 3,
+          "classId": "BABA23IU11",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.601"
+          ],
+          "lecturers": [
+            "P.T.Huyen"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.601",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "P.T.Huyen"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Huyen"
+      ]
+    },
+    "Workshop 1": {
+      "items": [
+        {
+          "code": "BA256IU01    |BA256IU|Workshop 1|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BA256WE",
+          "name": "Workshop 1",
+          "credits": 3,
+          "classId": "BABA23IU21",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.205"
+          ],
+          "lecturers": [
+            "N.T.Mẫn"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.205",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "N.T.Mẫn"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Mẫn",
+        "Đ.T.L.Trinh",
+        "T.N.Minh"
+      ]
+    },
+    "World Economic Geography": {
+      "items": [
+        {
+          "code": "PE007IU01    |PE007IU|World Economic Geography|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PE002WE",
+          "name": "World Economic Geography",
+          "credits": 3,
+          "classId": "BABA23UN41",
+          "capacity": 100,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.307"
+          ],
+          "lecturers": [
+            "N.T.P.Chau"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.307",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.T.P.Chau"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.P.Chau"
+      ]
+    },
+    "Vietnamese History and Culture": {
+      "items": [
+        {
+          "code": "PE010IU01    |PE010IU|Vietnamese History and Culture|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "PE006WE",
+          "name": "Vietnamese History and Culture",
+          "credits": 3,
+          "classId": "BABA23UN41",
+          "capacity": 99,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.205"
+          ],
+          "lecturers": [
+            "V.V.Sen"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.205",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "V.V.Sen"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.V.Sen"
+      ]
+    },
+    "Business Project": {
+      "items": [
+        {
+          "code": "UMCDVF-15-301    |UMCDVF-15-3|Business Project|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMCDVF-15-3",
+          "name": "Business Project",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A1.207B"
+          ],
+          "lecturers": [
+            "P.T.Nhật"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.207B",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "P.T.Nhật"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Nhật",
+        "H.M.Tri",
+        "Đ.T.L.Trinh",
+        "H.Đ.Sinh"
+      ]
+    },
+    "Sustainable Business": {
+      "items": [
+        {
+          "code": "UMED95-15-301    |UMED95-15-3|Sustainable Business|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMED95-15-3",
+          "name": "Sustainable Business",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 45,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "L205"
+          ],
+          "lecturers": [
+            "N.H.Phu"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L205",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "N.H.Phu"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.Phu"
+      ]
+    },
+    "Global Marketing Management": {
+      "items": [
+        {
+          "code": "UMKD6Q-15-301    |UMKD6Q-15-3|Global Marketing Management|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMKD6Q-15-3",
+          "name": "Global Marketing Management",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 45,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "L203"
+          ],
+          "lecturers": [
+            "B.T.Thanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L203",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "B.T.Thanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "B.T.Thanh",
+        "L.T.P.M.Hoàng",
+        "N.V.H.Chau"
+      ]
+    },
+    "Marketing Services": {
+      "items": [
+        {
+          "code": "UMKD6R-15-301    |UMKD6R-15-3|Marketing Services|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMKD6R-15-3",
+          "name": "Marketing Services",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 50,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A1.204"
+          ],
+          "lecturers": [
+            "H.Đ.Sinh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.204",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "H.Đ.Sinh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.Đ.Sinh"
+      ]
+    },
+    "Contemporary Issues in Events": {
+      "items": [
+        {
+          "code": "UMKDBP-15-301    |UMKDBP-15-3|Contemporary Issues in Events|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMKDBP-15-3",
+          "name": "Contemporary Issues in Events",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "L203"
+          ],
+          "lecturers": [
+            "T.N.N.Hân"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L203",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "T.N.N.Hân"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.N.N.Hân"
+      ]
+    },
+    "Corporate Events": {
+      "items": [
+        {
+          "code": "UMKDR7-15-301    |UMKDR7-15-3|Corporate Events|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMKDR7-15-3",
+          "name": "Corporate Events",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.409"
+          ],
+          "lecturers": [
+            "N.D.Y.Linh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.409",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "N.D.Y.Linh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.D.Y.Linh"
+      ]
+    },
+    "Human Resource Development and Knowledge Management": {
+      "items": [
+        {
+          "code": "UMPD7F-15-301    |UMPD7F-15-3|Human Resource Development and Knowledge Management|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMPD7F-15-3",
+          "name": "Human Resource Development and Knowledge Management",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.509"
+          ],
+          "lecturers": [
+            "P.T.Anh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.509",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "P.T.Anh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.T.Anh"
+      ]
+    },
+    "Strategy and Human Resource Management": {
+      "items": [
+        {
+          "code": "UMPDJC-30-301    |UMPDJC-30-3|Strategy and Human Resource Management|01|8|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMPDJC-30-3",
+          "name": "Strategy and Human Resource Management",
+          "credits": 8,
+          "classId": "BABA23EX31",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A2.310"
+          ],
+          "lecturers": [
+            "A.Thớ"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.310",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "A.Thớ"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "A.Thớ"
+      ]
+    },
+    "Managing Organisational Performance": {
+      "items": [
+        {
+          "code": "UMPDMV-15-301    |UMPDMV-15-3|Managing Organisational Performance|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMPDMV-15-3",
+          "name": "Managing Organisational Performance",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "A1.207A"
+          ],
+          "lecturers": [
+            "H.M.Tri"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.207A",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "H.M.Tri"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.M.Tri"
+      ]
+    },
+    "Integrated Business Management Simulation": {
+      "items": [
+        {
+          "code": "UMSDMK-15-301    |UMSDMK-15-3|Integrated Business Management Simulation|01|4|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "UMSDMK-15-3",
+          "name": "Integrated Business Management Simulation",
+          "credits": 4,
+          "classId": "BABA23EX31",
+          "capacity": 45,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "L203"
+          ],
+          "lecturers": [
+            "M.N.Khuong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L203",
+              "begin": 7,
+              "periods": 4,
+              "lecturers": [
+                "M.N.Khuong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "M.N.Khuong",
+        "N.M.Quân"
+      ]
+    },
+    "Cell Biology": {
+      "items": [
+        {
+          "code": "BT009IU01    |BT009IU|Cell Biology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT009WE",
+          "name": "Cell Biology",
+          "credits": 3,
+          "classId": "BTBT23UN01",
+          "capacity": 90,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "L.M.Thong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "L.M.Thong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.M.Thong"
+      ]
+    },
+    "Plant Physiology": {
+      "items": [
+        {
+          "code": "BT010IU01    |BT010IU|Plant Physiology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT010WE",
+          "name": "Plant Physiology",
+          "credits": 3,
+          "classId": "BTBT23IU11",
+          "capacity": 80,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L201"
+          ],
+          "lecturers": [
+            "T.V.Minh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L201",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "T.V.Minh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.V.Minh"
+      ]
+    },
+    "Introduction to Biotechnology": {
+      "items": [
+        {
+          "code": "BT150IU01    |BT150IU|Introduction to Biotechnology|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT150WE",
+          "name": "Introduction to Biotechnology",
+          "credits": 2,
+          "classId": "BTBT23IU02",
+          "capacity": 80,
+          "daysOfWeek": [
+            "Ba",
+            "Ba",
+            "Ba",
+            "Ba"
+          ],
+          "begins": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "periods": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "rooms": [
+            "A2.608",
+            "A2.608",
+            "A2.608",
+            "A2.608"
+          ],
+          "lecturers": [
+            "N.H.K.Tu",
+            "N.P.Thao",
+            "T.T.Hang",
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 1,
+              "periods": 2,
+              "lecturers": [
+                "N.H.K.Tu"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 1,
+              "periods": 2,
+              "lecturers": [
+                "N.P.Thao"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 1,
+              "periods": 2,
+              "lecturers": [
+                "T.T.Hang"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 1,
+              "periods": 2,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.K.Tu",
+        "N.P.Thao",
+        "T.T.Hang",
+        "N.V.Thuan"
+      ]
+    },
+    "Scientific Writing Workshop": {
+      "items": [
+        {
+          "code": "BT200IU01    |BT200IU|Scientific Writing Workshop|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT200WE",
+          "name": "Scientific Writing Workshop",
+          "credits": 2,
+          "classId": "BTBT23UN41",
+          "capacity": 70,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.202"
+          ],
+          "lecturers": [
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.202",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Thuan"
+      ]
+    },
+    "Human Physiology": {
+      "items": [
+        {
+          "code": "BT210IU01    |BT210IU|Human Physiology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT210WE",
+          "name": "Human Physiology",
+          "credits": 3,
+          "classId": "BTBT23UN01",
+          "capacity": 85,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.508"
+          ],
+          "lecturers": [
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.508",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Thuan"
+      ]
+    },
+    "Experimental Design": {
+      "items": [
+        {
+          "code": "BT216IU01    |BT216IU|Experimental Design|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT216WE",
+          "name": "Experimental Design",
+          "credits": 3,
+          "classId": "BTBT23UN31",
+          "capacity": 70,
+          "daysOfWeek": [
+            "Sáu",
+            "Sáu",
+            "Sáu",
+            "Sáu"
+          ],
+          "begins": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "periods": [
+            3,
+            3,
+            3,
+            3
+          ],
+          "rooms": [
+            "A2.608",
+            "A2.608",
+            "A2.608",
+            "A2.608"
+          ],
+          "lecturers": [
+            "N.H.K.Tu",
+            "N.T.Khoi",
+            "B.H.Thuy",
+            "L.M.Thong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.H.K.Tu"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Khoi"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "B.H.Thuy"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "L.M.Thong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.K.Tu",
+        "N.T.Khoi",
+        "B.H.Thuy",
+        "L.M.Thong"
+      ]
+    },
+    "Molecular Genetics": {
+      "items": [
+        {
+          "code": "BT217IU01    |BT217IU|Molecular Genetics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT217WE",
+          "name": "Molecular Genetics",
+          "credits": 3,
+          "classId": "BTBT23UN31",
+          "capacity": 85,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "N.M.Thanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.M.Thanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.M.Thanh"
+      ]
+    },
+    "Ethics and Biomedical Skills": {
+      "items": [
+        {
+          "code": "BT223WE01    |BT223WE|Ethics and Biomedical Skills|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT223WE",
+          "name": "Ethics and Biomedical Skills",
+          "credits": 3,
+          "classId": "BTBT23WE21",
+          "capacity": 28,
+          "daysOfWeek": [
+            "Ba",
+            "Ba"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "A2.512",
+            "A2.512"
+          ],
+          "lecturers": [
+            "N.H.K.Tu",
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.512",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.H.K.Tu"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.512",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.K.Tu",
+        "N.V.Thuan"
+      ]
+    },
+    "Introduction to Biomedical Science": {
+      "items": [
+        {
+          "code": "BT224WE01    |BT224WE|Introduction to Biomedical Science|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT224WE",
+          "name": "Introduction to Biomedical Science",
+          "credits": 3,
+          "classId": "BTBT23WE21",
+          "capacity": 24,
+          "daysOfWeek": [
+            "Tư",
+            "Tư"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            3,
+            3
+          ],
+          "rooms": [
+            "A2.512",
+            "A2.512"
+          ],
+          "lecturers": [
+            "N.H.K.Tu",
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.512",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.H.K.Tu"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "A2.512",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.K.Tu",
+        "N.V.Thuan"
+      ]
+    },
+    "Pathology": {
+      "items": [
+        {
+          "code": "BT225WE01    |BT225WE|Pathology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT225WE",
+          "name": "Pathology",
+          "credits": 3,
+          "classId": "BTBT23WE21",
+          "capacity": 30,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L104"
+          ],
+          "lecturers": [
+            "P.N.Tien"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L104",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "P.N.Tien"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.N.Tien"
+      ]
+    },
+    "Biology": {
+      "items": [
+        {
+          "code": "BT311IU02    |BT311IU|Biology|02|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT311WE",
+          "name": "Biology",
+          "credits": 3,
+          "classId": "BTBT23IU01",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L207"
+          ],
+          "lecturers": [
+            "B.H.Thuy"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L207",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "B.H.Thuy"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "B.H.Thuy"
+      ]
+    },
+    "Practice in Biology": {
+      "items": [
+        {
+          "code": "BT312IU01    |BT312IU|Practice in Biology|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT312WE",
+          "name": "Practice in Biology",
+          "credits": 1,
+          "classId": "BTBT23IU01",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA.CNSH"
+          ],
+          "lecturers": [
+            "P.H.Điệp"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA.CNSH",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "P.H.Điệp"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.H.Điệp"
+      ]
+    },
+    "Genetics": {
+      "items": [
+        {
+          "code": "BT313IU01    |BT313IU|Genetics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT313WE",
+          "name": "Genetics",
+          "credits": 3,
+          "classId": "BTBT23IU02",
+          "capacity": 90,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.601"
+          ],
+          "lecturers": [
+            "T.T.Hang"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.601",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "T.T.Hang"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Hang"
+      ]
+    },
+    "Practice in Genetics": {
+      "items": [
+        {
+          "code": "BT314IU01    |BT314IU|Practice in Genetics|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT314WE",
+          "name": "Practice in Genetics",
+          "credits": 1,
+          "classId": "BTBT23IU02",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.701"
+          ],
+          "lecturers": [
+            "T.T.Hang"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.701",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "T.T.Hang"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.Hang"
+      ]
+    },
+    "Analytical Chemistry": {
+      "items": [
+        {
+          "code": "BT315IU01    |BT315IU|Analytical Chemistry|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT315WE",
+          "name": "Analytical Chemistry",
+          "credits": 3,
+          "classId": "BTBT23IU11",
+          "capacity": 60,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "N.T.Trang"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.T.Trang"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Trang"
+      ]
+    },
+    "Practice in Analytical Chemistry": {
+      "items": [
+        {
+          "code": "BT316IU01    |BT316IU|Practice in Analytical Chemistry|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT316WE",
+          "name": "Practice in Analytical Chemistry",
+          "credits": 1,
+          "classId": "BTBT23IU11",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.501"
+          ],
+          "lecturers": [
+            "B.X.A.Dao"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.501",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "B.X.A.Dao"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "B.X.A.Dao",
+        "V.T.M.Thu"
+      ]
+    },
+    "Biostatistics": {
+      "items": [
+        {
+          "code": "BT317IU01    |BT317IU|Biostatistics|01|2|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT317WE",
+          "name": "Biostatistics",
+          "credits": 2,
+          "classId": "BTBT23IU21",
+          "capacity": 70,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            4
+          ],
+          "rooms": [
+            "L207"
+          ],
+          "lecturers": [
+            "N.T.Khoi"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L207",
+              "begin": 1,
+              "periods": 4,
+              "lecturers": [
+                "N.T.Khoi"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.T.Khoi"
+      ]
+    },
+    "Practice in Biostatistics": {
+      "items": [
+        {
+          "code": "BT318IU01    |BT318IU|Practice in Biostatistics|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT318WE",
+          "name": "Practice in Biostatistics",
+          "credits": 1,
+          "classId": "BTBT23IU21",
+          "capacity": 70,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "L207"
+          ],
+          "lecturers": [
+            "D.N.P.Chau"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L207",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "D.N.P.Chau"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.N.P.Chau"
+      ]
+    },
+    "Biochemistry": {
+      "items": [
+        {
+          "code": "BT319IU01    |BT319IU|Biochemistry|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT319WE",
+          "name": "Biochemistry",
+          "credits": 3,
+          "classId": "BTBT23IU21",
+          "capacity": 80,
+          "daysOfWeek": [
+            "Tư"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "N.V.Toan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Toan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Toan"
+      ]
+    },
+    "Practice in Biochemistry": {
+      "items": [
+        {
+          "code": "BT320IU01    |BT320IU|Practice in Biochemistry|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT320WE",
+          "name": "Practice in Biochemistry",
+          "credits": 1,
+          "classId": "BTBT23IU21",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.501"
+          ],
+          "lecturers": [
+            "L.N.T.Phuc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.501",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "L.N.T.Phuc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.N.T.Phuc"
+      ]
+    },
+    "Microbiology": {
+      "items": [
+        {
+          "code": "BT321IU01    |BT321IU|Microbiology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT321WE",
+          "name": "Microbiology",
+          "credits": 3,
+          "classId": "BTBT23UN01",
+          "capacity": 86,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.401"
+          ],
+          "lecturers": [
+            "N.B.Quốc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.401",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "N.B.Quốc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.B.Quốc"
+      ]
+    },
+    "Practice in Microbiology": {
+      "items": [
+        {
+          "code": "BT322IU01    |BT322IU|Practice in Microbiology|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT322WE",
+          "name": "Practice in Microbiology",
+          "credits": 1,
+          "classId": "BTBT23UN01",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA.CNSH"
+          ],
+          "lecturers": [
+            "H.T.L.Xuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA.CNSH",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "H.T.L.Xuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "H.T.L.Xuan"
+      ]
+    },
+    "Immunology": {
+      "items": [
+        {
+          "code": "BT335IU01    |BT335IU|Immunology|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT335WE",
+          "name": "Immunology",
+          "credits": 3,
+          "classId": "BTBT23UN21",
+          "capacity": 75,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.104"
+          ],
+          "lecturers": [
+            "P.N.Tien"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.104",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "P.N.Tien"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "P.N.Tien"
+      ]
+    },
+    "Practice in Immunology": {
+      "items": [
+        {
+          "code": "BT336IU01    |BT336IU|Practice in Immunology|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT336WE",
+          "name": "Practice in Immunology",
+          "credits": 1,
+          "classId": "BTBT23UN21",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.702"
+          ],
+          "lecturers": [
+            "T.T.H.Yen"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.702",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "T.T.H.Yen"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.H.Yen"
+      ]
+    },
+    "Bioinformatics": {
+      "items": [
+        {
+          "code": "BT337IU01    |BT337IU|Bioinformatics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT337WE",
+          "name": "Bioinformatics",
+          "credits": 3,
+          "classId": "BTBT23UN31",
+          "capacity": 70,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.601"
+          ],
+          "lecturers": [
+            "N.M.Thanh"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.601",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "N.M.Thanh"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.M.Thanh"
+      ]
+    },
+    "Practice in Bioinformatics": {
+      "items": [
+        {
+          "code": "BT338IU01    |BT338IU|Practice in Bioinformatics|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT338WE",
+          "name": "Practice in Bioinformatics",
+          "credits": 1,
+          "classId": "BTBT23UN31",
+          "capacity": 35,
+          "daysOfWeek": [
+            "Sáu"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.605"
+          ],
+          "lecturers": [
+            "D.N.P.Chau"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.605",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "D.N.P.Chau"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "D.N.P.Chau"
+      ]
+    },
+    "Molecular Diagnostics": {
+      "items": [
+        {
+          "code": "BT351IU01    |BT351IU|Molecular Diagnostics|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT351WE",
+          "name": "Molecular Diagnostics",
+          "credits": 3,
+          "classId": "BTBT23WE01",
+          "capacity": 66,
+          "daysOfWeek": [
+            "Bảy"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "L207"
+          ],
+          "lecturers": [
+            "L.M.Thong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L207",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "L.M.Thong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.M.Thong"
+      ]
+    },
+    "Practice in Molecular Diagnostics": {
+      "items": [
+        {
+          "code": "BT352IU01    |BT352IU|Practice in Molecular Diagnostics|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT352WE",
+          "name": "Practice in Molecular Diagnostics",
+          "credits": 1,
+          "classId": "BTBT23WE01",
+          "capacity": 22,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.702"
+          ],
+          "lecturers": [
+            "L.M.Thong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.702",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "L.M.Thong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.M.Thong"
+      ]
+    },
+    "Reproductive and Regenerative Biomedicine": {
+      "items": [
+        {
+          "code": "BT353IU01    |BT353IU|Reproductive and Regenerative Biomedicine|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT353WE",
+          "name": "Reproductive and Regenerative Biomedicine",
+          "credits": 3,
+          "classId": "BTBT23WE01",
+          "capacity": 44,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.203"
+          ],
+          "lecturers": [
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.203",
+              "begin": 7,
+              "periods": 3,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.V.Thuan"
+      ]
+    },
+    "Practice in Reproductive and Regenerative Biomedicine": {
+      "items": [
+        {
+          "code": "BT354IU01    |BT354IU|Practice in Reproductive and Regenerative Biomedicine|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BT354WE",
+          "name": "Practice in Reproductive and Regenerative Biomedicine",
+          "credits": 1,
+          "classId": "BTBT23WE01",
+          "capacity": 20,
+          "daysOfWeek": [
+            "Tư",
+            "Tư"
+          ],
+          "begins": [
+            7,
+            7
+          ],
+          "periods": [
+            5,
+            5
+          ],
+          "rooms": [
+            "LA1.710",
+            "LA1.710"
+          ],
+          "lecturers": [
+            "B.H.Thuy",
+            "N.V.Thuan"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.710",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "B.H.Thuy"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "LA1.710",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "N.V.Thuan"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "B.H.Thuy",
+        "N.V.Thuan"
+      ]
+    },
+    "Clinical Biochemistry": {
+      "items": [
+        {
+          "code": "BTBC413IU01    |BTBC413IU|Clinical Biochemistry|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BTBC413WE",
+          "name": "Clinical Biochemistry",
+          "credits": 3,
+          "classId": "BTBC23IU11",
+          "capacity": 40,
+          "daysOfWeek": [
+            "Năm"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A1.206"
+          ],
+          "lecturers": [
+            ""
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A1.206",
+              "begin": 1,
+              "periods": 3,
+              "lecturers": [
+                "Unknown"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Unknown"
+      ]
+    },
+    "Clinical biochemistry lab": {
+      "items": [
+        {
+          "code": "BTBC414IU01    |BTBC414IU|Clinical biochemistry lab|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "BTBC414WE",
+          "name": "Clinical biochemistry lab",
+          "credits": 1,
+          "classId": "BTBC23IU11",
+          "capacity": 40,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            "L.V.Chương"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "L.V.Chương"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.V.Chương"
+      ]
+    },
+    "Organic chemistry": {
+      "items": [
+        {
+          "code": "CH009IU01    |CH009IU|Organic chemistry|01|3|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "CH009WE",
+          "name": "Organic chemistry",
+          "credits": 3,
+          "classId": "BTBT23IU02",
+          "capacity": 80,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            4
+          ],
+          "periods": [
+            3
+          ],
+          "rooms": [
+            "A2.608"
+          ],
+          "lecturers": [
+            "L.Q.Phong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.608",
+              "begin": 4,
+              "periods": 3,
+              "lecturers": [
+                "L.Q.Phong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "L.Q.Phong"
+      ]
+    },
+    "Chemistry Laboratory": {
+      "items": [
+        {
+          "code": "CH012IU01    |CH012IU|Chemistry Laboratory|01|1|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "CH012WE",
+          "name": "Chemistry Laboratory",
+          "credits": 1,
+          "classId": "BTBT23IU41",
+          "capacity": 18,
+          "daysOfWeek": [
+            "Hai"
+          ],
+          "begins": [
+            1
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "LA1.502"
+          ],
+          "lecturers": [
+            "V.T.Ngọc"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "LA1.502",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "V.T.Ngọc"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "V.T.Ngọc",
+        "L.N.T.Phuc",
+        "N.N.T.Đạt",
+        "P.T.Hoa",
+        "L.T.H.Ngoc",
+        "V.T.M.Thu"
+      ]
+    },
+    "Research Experimental Project": {
+      "items": [
+        {
+          "code": "USSK5K-30-301    |USSK5K-30-3|Research Experimental Project|01|9|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "USSK5K-30-3",
+          "name": "Research Experimental Project",
+          "credits": 9,
+          "classId": "BTBC20IU41",
+          "capacity": 14,
+          "daysOfWeek": [
+            ""
+          ],
+          "begins": [
+            0
+          ],
+          "periods": [
+            0
+          ],
+          "rooms": [
+            ""
+          ],
+          "lecturers": [
+            ""
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "Homeless",
+              "begin": 0,
+              "periods": 0,
+              "lecturers": [
+                "Unknown"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "Unknown"
+      ]
+    },
+    "Genomics Technologies": {
+      "items": [
+        {
+          "code": "USSKBF-30-301    |USSKBF-30-3|Genomics Technologies|01|9|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "USSKBF-30-3",
+          "name": "Genomics Technologies",
+          "credits": 9,
+          "classId": "BTBC20IU41",
+          "capacity": 14,
+          "daysOfWeek": [
+            "Tư",
+            "Tư",
+            "Tư"
+          ],
+          "begins": [
+            1,
+            1,
+            1
+          ],
+          "periods": [
+            5,
+            5,
+            5
+          ],
+          "rooms": [
+            "L203",
+            "L203",
+            "L203"
+          ],
+          "lecturers": [
+            "N.M.Thanh",
+            "T.T.H.Yen",
+            "L.M.Thong"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L203",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "N.M.Thanh"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "L203",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "T.T.H.Yen"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "L203",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "L.M.Thong"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.M.Thanh",
+        "T.T.H.Yen",
+        "L.M.Thong"
+      ]
+    },
+    "Medical Microbiology": {
+      "items": [
+        {
+          "code": "USSKBJ-30-301    |USSKBJ-30-3|Medical Microbiology|01|9|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "USSKBJ-30-3",
+          "name": "Medical Microbiology",
+          "credits": 9,
+          "classId": "BTBC20IU41",
+          "capacity": 14,
+          "daysOfWeek": [
+            "Sáu",
+            "Sáu"
+          ],
+          "begins": [
+            1,
+            1
+          ],
+          "periods": [
+            5,
+            5
+          ],
+          "rooms": [
+            "L111",
+            "L111"
+          ],
+          "lecturers": [
+            "T.T.M.Hanh",
+            "N.V.H.Ha"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "L111",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "T.T.M.Hanh"
+              ]
+            },
+            {
+              "day": -1,
+              "room": "L111",
+              "begin": 1,
+              "periods": 5,
+              "lecturers": [
+                "N.V.H.Ha"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "T.T.M.Hanh",
+        "N.V.H.Ha"
+      ]
+    },
+    "Applied Immunology": {
+      "items": [
+        {
+          "code": "USSKBN-30-301    |USSKBN-30-3|Applied Immunology|01|9|0|01/01/0001|0|0|0||0|ITIT234WE41",
+          "id": "USSKBN-30-3",
+          "name": "Applied Immunology",
+          "credits": 9,
+          "classId": "BTBC20IU41",
+          "capacity": 14,
+          "daysOfWeek": [
+            "Ba"
+          ],
+          "begins": [
+            7
+          ],
+          "periods": [
+            5
+          ],
+          "rooms": [
+            "A2.410"
+          ],
+          "lecturers": [
+            "N.H.K.Tu"
+          ],
+          "lessons": [
+            {
+              "day": -1,
+              "room": "A2.410",
+              "begin": 7,
+              "periods": 5,
+              "lecturers": [
+                "N.H.K.Tu"
+              ]
+            }
+          ]
+        }
+      ],
+      "lecturers": [
+        "N.H.K.Tu"
+      ]
+    }
+  },
+  "updatedAt": {
+    "seconds": 1734983339.504,
+    "text": "12/24/2024, 2:48:59 AM"
+  }
+}

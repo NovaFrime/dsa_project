@@ -7,8 +7,10 @@ import SettingsPage from '@/pages/SettingsPage'
 import { AuthProvider, useAuth } from '@/contexts/AuthContext'
 import { Toaster } from '@/components/ui/toaster' 
 import TimetablePanel from './pages/TimetablePage'
-import GcsTimetablePage from './pages/gcsTimetablePage'
-import GcsExamPage from './pages/gcsExamPage'
+import GcsTimetablePage from './pages/GcsTimetablePage'
+import GcsExamPage from './pages/GcsExamPage'
+import PrerequisitesPage from './pages/PrerequisitesPage'
+import CourseScoreCalculator from './pages/CourseScoreCalculator'
 
 const ProtectedRoute = ({ children }: { children: React.ReactNode }) => {
   const auth = useAuth()
@@ -26,6 +28,8 @@ function App() {
               <Route index element={<Navigate to="/utils" replace />} />
               <Route path="utils" element={<UtilsPanel />} />
               <Route path="timetable" element={<TimetablePanel/>}/>
+              <Route path="whatnext" element={<PrerequisitesPage/>}/>
+              <Route path="calculateoverall" element={<CourseScoreCalculator/>}/>
               <Route path="gcsExams" element={<GcsExamPage />} />
               <Route path="gcsTimetables" element={<GcsTimetablePage />} />
               <Route path="settings" element={<SettingsPage />} />

@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom'
-import { Home, Settings, User, Sheet, Mail } from 'lucide-react'
+import { Home, Settings, User, Sheet, Mail, LucideFileQuestion, Calculator } from 'lucide-react'
 
 const Sidebar = () => {
   return (
@@ -59,6 +59,32 @@ const Sidebar = () => {
             >
               <User size={20} />
               <span>New Timetable</span>
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/whatnext"
+              className={({ isActive }) =>
+                `flex items-center space-x-2 p-2 rounded ${
+                  isActive ? 'bg-accent text-accent-foreground' : 'hover:bg-accent hover:text-accent-foreground'
+                }`
+              }
+            >
+              <LucideFileQuestion size={20} />
+              <span>What To Study Next?</span>
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/calculateoverall"
+              className={({ isActive }) =>
+                `flex items-center space-x-2 p-2 rounded ${
+                  isActive ? 'bg-accent text-accent-foreground' : 'hover:bg-accent hover:text-accent-foreground'
+                }`
+              }
+            >
+              <Calculator size={20} />
+              <span>Calculate Overall</span>
             </NavLink>
           </li>
           <li>

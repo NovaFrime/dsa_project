@@ -20,7 +20,6 @@ const days = ["Hai", "Ba", "Tư", "Năm", "Sáu", "Bảy", "CN"];
 
 const TimetablePanel = () => {
     const [selectedCourses, setSelectedCourses] = useState<any[]>([]);
-    // const [freeDays, setFreeDays] = useState(0);
     const [hoveredCourse, setHoveredCourse] = useState<any>(null);
     const { toast } = useToast();
 
@@ -95,8 +94,7 @@ const TimetablePanel = () => {
                                 return (
                                     <div
                                         key={`${dayIndex}-${periodIndex}`}
-                                        className={`relative border p-2 min-h-[40px] flex justify-center items-center ${isInThisPeriod ? "bg-blue-200" : "bg-gray-50"
-                                            }`}
+                                        className={`relative border p-2 min-h-[40px] flex justify-center items-center ${isInThisPeriod ? "bg-blue-200" : "bg-gray-50 dark:bg-gray-700 dark:border-gray-600"}`}
                                         onMouseEnter={() => setHoveredCourse(course.courseName || null)}
                                         onMouseLeave={() => setHoveredCourse(null)}
                                     >
